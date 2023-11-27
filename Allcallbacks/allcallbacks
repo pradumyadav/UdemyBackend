@@ -1,0 +1,14 @@
+const { Home } = require("../Alldatas/alldata")
+
+
+
+
+        const postalldata = (req,res)=>{
+           return res.send (Home)
+        }
+
+        const getalldata =(req,res)=>{
+            return res.send()
+        }
+
+        module.exports= {postalldata,getalldata}
