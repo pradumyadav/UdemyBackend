@@ -14,7 +14,7 @@ const connection = require("./Config/config")
             origin:"*"
         }))
 
-        app.use("/api/",routerforAll)
+        app.use("/api",routerforAll)
         app.listen(4005,async()=>{
             try{
                 await connection()
