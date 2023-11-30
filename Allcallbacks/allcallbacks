@@ -1,14 +1,19 @@
+
+// const { allDataStoreSchema } = require("../../model/alldataSchema")
+// const { Home } = require("../Alldatas/alldata")
+
 const { Home } = require("../Alldatas/alldata")
+const { allDataStoreSchema } = require("../model/alldataSchema")
 
 
-
-
-        const postalldata = (req,res)=>{
-           return res.send (Home)
+        const postalldata = async(req,res)=>{
+           const first =await allDataStoreSchema.create(Home)
+           res.send(first)
         }
 
-        const getalldata =(req,res)=>{
-            return res.send()
+        const getalldata =async(req,res)=>{
+            const second =await allDataStoreSchema.find({})
+            res.send(second)
         }
 
         module.exports= {postalldata,getalldata}

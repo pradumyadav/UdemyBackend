@@ -221,16 +221,17 @@
                 price:389,
                 type:"Business"
             },
-            // {
-            //     id:14,
-            //     populerTopics:["PMI Project Management Professional(PMP)","Project Management","Data Modelling","Business Analysis","Microsoft Power BI","SQL","PMI PMBOK","Data Analysis",],
-            //     category:"Business"
-            // },
-            // {
-            //     id:15,
-            //     populerTopics:["Stock Trading","Financial Analysis","Accounting","Cryptocurrency","Investing","Forex Trading","TechNical Analysis(finance)","Algorithmic Trading"],
-            //     category:"Finance and Accounting"
-            // },
+            {
+                id:131,
+                title:"Improve Communication: Speak Smoothly, Clearly & Confidently",
+                des:"Learn How You Can Clear Interviews, Express Your Ideas, & Make Presentations Smoothly & Confidently!",
+                img:"https://img-c.udemycdn.com/course/240x135/949846_23f1_4.jpg",
+                writer:"Michael Williams",
+                rating:"4.6⭐⭐⭐⭐⭐",
+                price:699,
+                type:"Communication"
+            },
+           
            
             {
                 id:14,
@@ -1415,6 +1416,7 @@
                 price:699,
                 type:"Teaching & Academic"
             },
+            
 
          
 
