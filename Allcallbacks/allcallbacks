@@ -1,12 +1,10 @@
 
-// const { allDataStoreSchema } = require("../../model/alldataSchema")
-// const { Home } = require("../Alldatas/alldata")
 
 const { Home } = require("../Alldatas/alldata")
 const { allDataStoreSchema } = require("../model/alldataSchema")
 
 
-        const postalldata = async(req,res)=>{
+        const postalldata =async(req,res)=>{
            const first =await allDataStoreSchema.create(Home)
            res.send(first)
         }
