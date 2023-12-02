@@ -189,7 +189,7 @@
                 rating:"4.6⭐⭐⭐⭐⭐",
                 price:389,
                 type:"Business",
-                subType:"Communication"
+                
             },
             {
                 id:11,
@@ -221,16 +221,7 @@
                 price:389,
                 type:"Business"
             },
-            {
-                id:131,
-                title:"Improve Communication: Speak Smoothly, Clearly & Confidently",
-                des:"Learn How You Can Clear Interviews, Express Your Ideas, & Make Presentations Smoothly & Confidently!",
-                img:"https://img-c.udemycdn.com/course/240x135/949846_23f1_4.jpg",
-                writer:"Michael Williams",
-                rating:"4.6⭐⭐⭐⭐⭐",
-                price:699,
-                type:"Communication"
-            },
+           
            
            
             {
@@ -1416,6 +1407,13 @@
                 price:699,
                 type:"Teaching & Academic"
             },
+
+
+
+
+
+
+
             {
                 id:131,
                 title:"Powerful Business Writing: How to Write Concisely",
@@ -1424,7 +1422,7 @@
                 writer:"Caroline McDevitt",
                 rating:"4.6⭐⭐⭐⭐⭐",
                 price:699,
-                type:"communication"
+                type:"Communication"
 
             },
             {
@@ -1435,7 +1433,7 @@
                 writer: "Emma Johnson",
                 rating: "4.5⭐⭐⭐⭐⭐",
                 price: 4999,
-                type: "communication"
+                type: "Communication"
               },
               {
                 id: 133,
@@ -1445,7 +1443,7 @@
                 writer: "John Smith",
                 rating: "4.8⭐",
                 price: 5999,
-                type: "communication"
+                type: "Communication"
               },
               {
                 
@@ -1456,7 +1454,7 @@
                     writer: "Sophia Davis",
                     rating: "4.7⭐",
                     price: 6999,
-                    type: "communication"
+                    type: "Communication"
 
                   },
                   {
@@ -1467,63 +1465,126 @@
                     writer: "Alex Turner",
                     rating: "4.6⭐",
                     price: 5499,
-                    type: "communication"
+                    type: "Communication"
                   },
                   {
                     id: 136,
+                    title: "Advanced Communication Skills Workshop",
+                    des: "Take your communication skills to the next level through interactive workshops and exercises.",
+                    img: "https://example.com/image2.jpg",
+                    writer: "John Smith",
+                    rating: "4.8⭐",
+                    price: 5999,
+                    type: "Communication"
+                  },
+                  {
+                    
+                        id: 137,
+                        title: "Strategic Communication Planning",
+                        des: "Learn to develop and implement effective communication plans for businesses and organizations.",
+                        img: "https://example.com/image3.jpg",
+                        writer: "Sophia Davis",
+                        rating: "4.7⭐",
+                        price: 6999,
+                        type: "Communication"
+    
+                      },
+                      {
+                        id: 138,
+                        title: "Interpersonal Communication Mastery",
+                        des: "Enhance your interpersonal communication skills for successful personal and professional relationships.",
+                        img: "https://example.com/image4.jpg",
+                        writer: "Alex Turner",
+                        rating: "4.6⭐",
+                        price: 5499,
+                        type: "Communication"
+                      },
+                  {
+                    id: 139,
                     title: "Leadership Strategies for Effective Management",
                     des: "Explore proven leadership strategies for effective management in various organizational settings.",
                     img: "https://example.com/image201.jpg",
                     writer: "Eleanor Davis",
                     rating: "4.7⭐",
                     price: 59.99,
-                    type: "management"
+                    type: "Managements"
                   },
                   {
-                    id: 137,
+                    id: 140,
                     title: "Strategic Project Management",
                     des: "Learn the principles of strategic project management and enhance your project leadership skills.",
                     img: "https://example.com/image202.jpg",
                     writer: "Benjamin Turner",
                     rating: "4.9⭐",
                     price: 69.99,
-                    type: "management"
+                    type: "Managements"
                   },
                   
                  {
-                    id: 138,
+                    id: 141,
                     title: "Effective Team Communication in Management",
                     des: "Develop effective communication strategies to lead and manage successful teams in any industry.",
                     img: "https://example.com/image203.jpg",
                     writer: "Isabella Garcia",
                     rating: "4.8⭐",
                     price: 64.99,
-                    type: "management"
+                    type: "Managements"
                   },
                    {
-                    id: 139,
+                    id: 142,
                     title: "Financial Management for Business Leaders",
                     des: "Understand key financial management concepts to make informed decisions as a business leader.",
                     img: "https://example.com/image204.jpg",
                     writer: "Nathan Miller",
                     rating: "4.6⭐",
                     price: 54.99,
-                    type: "management"
+                    type: "Managements"
                   },
                   
                  {
-                    id: 140,
+                    id: 143,
                     title: "Conflict Resolution and Decision-Making in Management",
                     des: "Master conflict resolution and decision-making skills essential for effective management roles.",
                     img: "https://example.com/image205.jpg",
                     writer: "Sophie Turner",
                     rating: "4.5⭐",
                     price: 49.99,
-                    type: "management"
+                    type: "Managements"
+                  },
+                  {
+                    id: 144,
+                    title: "Leadership Strategies for Effective Management",
+                    des: "Explore proven leadership strategies for effective management in various organizational settings.",
+                    img: "https://example.com/image201.jpg",
+                    writer: "Eleanor Davis",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Managements"
+                  },
+                  {
+                    id: 145,
+                    title: "Strategic Project Management",
+                    des: "Learn the principles of strategic project management and enhance your project leadership skills.",
+                    img: "https://example.com/image202.jpg",
+                    writer: "Benjamin Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Managements"
                   },
                   
                  {
-                    id:141,
+                    id: 146,
+                    title: "Effective Team Communication in Management",
+                    des: "Develop effective communication strategies to lead and manage successful teams in any industry.",
+                    img: "https://example.com/image203.jpg",
+                    writer: "Isabella Garcia",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Managements"
+                  },
+                   
+                 {
+                    id:147,
                     title: "Strategic Planning for Business Success",
                     des: "Master the art of strategic planning to drive business success in a competitive environment.",
                     img: "https://example.com/image301.jpg",
@@ -1534,7 +1595,7 @@
                   },
                   
                   {
-                    id: 142,
+                    id: 148,
                     title: "Business Innovation and Growth Strategies",
                     des: "Explore innovative strategies for business growth and stay ahead in the ever-changing market.",
                     img: "https://example.com/image302.jpg",
@@ -1544,7 +1605,7 @@
                     type: "Business Strategy"
                   },
                  {
-                    id:143,
+                    id:149,
                     title: "Leadership in Business Strategy",
                     des: "Develop leadership skills for effective business strategy implementation and organizational success.",
                     img: "https://example.com/image303.jpg",
@@ -1555,7 +1616,7 @@
                   },
                   
                   {
-                    id: 144,
+                    id: 150,
                     title: "Strategic Decision-Making in Business",
                     des: "Enhance your decision-making skills to drive strategic initiatives and achieve business goals.",
                     img: "https://example.com/image304.jpg",
@@ -1566,7 +1627,7 @@
                   },
                   
                   {
-                    id: 145,
+                    id: 151,
                     title: "Business Strategy for Sustainable Growth",
                     des: "Implement sustainable business strategies for long-term growth and success in the market.",
                     img: "https://example.com/image305.jpg",
@@ -1576,17 +1637,39 @@
                     type: "Business Strategy"
                   },
                   {
-                    id: 146,
-                    title: "Business Strategy for Sustainable Growth",
-                    des: "Implement sustainable business strategies for long-term growth and success in the market.",
-                    img: "https://example.com/image305.jpg",
-                    writer: "Olivia Turner",
-                    rating: "4.5⭐",
-                    price: 49.99,
+                    id:152,
+                    title: "Strategic Planning for Business Success",
+                    des: "Master the art of strategic planning to drive business success in a competitive environment.",
+                    img: "https://example.com/image301.jpg",
+                    writer: "Emily Adams",
+                    rating: "4.8⭐",
+                    price: 69.99,
                     type: "Business Strategy"
                   },
+                  
+                  {
+                    id: 153,
+                    title: "Business Innovation and Growth Strategies",
+                    des: "Explore innovative strategies for business growth and stay ahead in the ever-changing market.",
+                    img: "https://example.com/image302.jpg",
+                    writer: "Matthew Turner",
+                    rating: "4.9⭐",
+                    price: 79.99,
+                    type: "Business Strategy"
+                  },
+                 {
+                    id:154,
+                    title: "Leadership in Business Strategy",
+                    des: "Develop leadership skills for effective business strategy implementation and organizational success.",
+                    img: "https://example.com/image303.jpg",
+                    writer: "Sophia Clark",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Business Strategy"
+                  },
+                 
                     {
-                    id: 147,
+                    id: 155,
                     title: "Operations Management Essentials",
                     des: "Learn the fundamental principles of operations management for efficient business processes.",
                     img: "https://example.com/image501.jpg",
@@ -1597,7 +1680,7 @@
                   },
                   
                    {
-                    id: 148,
+                    id: 156,
                     title: "Supply Chain Operations Optimization",
                     des: "Optimize supply chain operations to enhance efficiency and reduce operational costs.",
                     img: "https://example.com/image502.jpg",
@@ -1608,7 +1691,7 @@
                   },
                   
                   {
-                    id: 149,
+                    id: 157,
                     title: "Quality Management in Operations",
                     des: "Explore strategies for ensuring quality in operations management for business excellence.",
                     img: "https://example.com/image503.jpg",
@@ -1619,7 +1702,7 @@
                   },
                   
                   {
-                    id: 150,
+                    id: 158,
                     title: "Lean Operations Principles",
                     des: "Implement lean principles for streamlined operations and improved organizational performance.",
                     img: "https://example.com/image504.jpg",
@@ -1630,7 +1713,7 @@
                   },
                   
                   {
-                    id:151,
+                    id:159,
                     title: "Project Management for Operations",
                     des: "Apply project management techniques to optimize operations and achieve project success.",
                     img: "https://example.com/image505.jpg",
@@ -1639,8 +1722,50 @@
                     price: 49.99,
                     type: "Operations"
                   },
+                  {
+                    id: 160,
+                    title: "Supply Chain Operations Optimization",
+                    des: "Optimize supply chain operations to enhance efficiency and reduce operational costs.",
+                    img: "https://example.com/image502.jpg",
+                    writer: "Sophia Adams",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Operations"
+                  },
+                  
+                  {
+                    id: 161,
+                    title: "Quality Management in Operations",
+                    des: "Explore strategies for ensuring quality in operations management for business excellence.",
+                    img: "https://example.com/image503.jpg",
+                    writer: "Benjamin Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Operations"
+                  },
+                  
+                  {
+                    id: 162,
+                    title: "Lean Operations Principles",
+                    des: "Implement lean principles for streamlined operations and improved organizational performance.",
+                    img: "https://example.com/image504.jpg",
+                    writer: "Ella Turner",
+                    rating: "4.6⭐",
+                    price: 54.99,
+                    type: "Operations"
+                  },
                    {
-                    id: 152,
+                    id: 163,
+                    title: "Human Resources Management Fundamentals",
+                    des: "Gain a foundational understanding of human resources management principles and practices.",
+                    img: "https://example.com/image601.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Human Resources."
+                  },
+                  {
+                    id: 164,
                     title: "Human Resources Management Fundamentals",
                     des: "Gain a foundational understanding of human resources management principles and practices.",
                     img: "https://example.com/image601.jpg",
@@ -1651,7 +1776,7 @@
                   },
                   
                   {
-                    id: 153,
+                    id: 165,
                     title: "Talent Acquisition and Recruitment Strategies",
                     des: "Explore effective strategies for talent acquisition and recruitment in human resources.",
                     img: "https://example.com/image602.jpg",
@@ -1662,7 +1787,7 @@
                   },
                   
                   {
-                    id: 154,
+                    id: 166,
                     title: "Employee Training and Development",
                     des: "Develop and implement employee training and development programs for organizational growth.",
                     img: "https://example.com/image603.jpg",
@@ -1674,7 +1799,7 @@
                   
                  
                   {
-                    id: 155,
+                    id: 167,
                     title: "Performance Management in HR",
                     des: "Learn effective performance management techniques to enhance employee productivity.",
                     img: "https://example.com/image604.jpg",
@@ -1684,7 +1809,38 @@
                     type: "Human Resources."
                   },
                   {
-                    id: 156,
+                    id: 168,
+                    title: "Human Resources Management Fundamentals",
+                    des: "Gain a foundational understanding of human resources management principles and practices.",
+                    img: "https://example.com/image601.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Human Resources."
+                  },
+                  {
+                    id: 169,
+                    title: "Human Resources Management Fundamentals",
+                    des: "Gain a foundational understanding of human resources management principles and practices.",
+                    img: "https://example.com/image601.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Human Resources."
+                  },
+                  
+                  {
+                    id: 170,
+                    title: "Talent Acquisition and Recruitment Strategies",
+                    des: "Explore effective strategies for talent acquisition and recruitment in human resources.",
+                    img: "https://example.com/image602.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Human Resources."
+                  },
+                  {
+                    id: 171,
                     title: "Fundamentals of Accounting",
                     des: "Master the basics of accounting principles and practices for financial management.",
                     img: "https://example.com/image701.jpg",
@@ -1695,7 +1851,7 @@
                   },
                   
                  {
-                    id: 157,
+                    id: 172,
                     title: "Bookkeeping Essentials",
                     des: "Learn essential bookkeeping techniques to maintain accurate financial records.",
                     img: "https://example.com/image702.jpg",
@@ -1706,7 +1862,7 @@
                   },
                   
                   {
-                    id:158,
+                    id:173,
                     title: "Advanced Accounting Practices",
                     des: "Explore advanced accounting practices for comprehensive financial management.",
                     img: "https://example.com/image703.jpg",
@@ -1717,7 +1873,7 @@
                   },
                   
                  {
-                    id:158,
+                    id:174,
                     title: "Financial Reporting and Analysis",
                     des: "Understand financial reporting and analysis techniques for effective decision-making.",
                     img: "https://example.com/image704.jpg",
@@ -1728,7 +1884,7 @@
                   },
                   
                {
-                    id: 159,
+                    id: 175,
                     title: "Budgeting and Cost Control",
                     des: "Learn budgeting and cost control strategies for efficient financial management.",
                     img: "https://example.com/image705.jpg",
@@ -1737,8 +1893,41 @@
                     price: 49.99,
                     type: "Accounting & Bookkeeping"
                   },
+                  {
+                    id: 176,
+                    title: "Fundamentals of Accounting",
+                    des: "Master the basics of accounting principles and practices for financial management.",
+                    img: "https://example.com/image701.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Accounting & Bookkeeping"
+                  },
+                  
+                 {
+                    id: 177,
+                    title: "Bookkeeping Essentials",
+                    des: "Learn essential bookkeeping techniques to maintain accurate financial records.",
+                    img: "https://example.com/image702.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Accounting & Bookkeeping"
+                  },
+                  
+                  {
+                    id:178,
+                    title: "Advanced Accounting Practices",
+                    des: "Explore advanced accounting practices for comprehensive financial management.",
+                    img: "https://example.com/image703.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Accounting & Bookkeeping"
+                  },
+                  
                    {
-                    id:160,
+                    id:179,
                     title: "Corporate Compliance Essentials",
                     des: "Understand the essentials of corporate compliance for ethical and legal business practices.",
                     img: "https://example.com/image801.jpg",
@@ -1749,7 +1938,7 @@
                   },
                   
                   {
-                    id:161,
+                    id:180,
                     title: "Legal Compliance in Business",
                     des: "Learn about legal compliance requirements and practices for a compliant business operation.",
                     img: "https://example.com/image802.jpg",
@@ -1760,7 +1949,7 @@
                   },
                   
                  {
-                    id:162,
+                    id:181,
                     title: "Compliance Auditing and Reporting",
                     des: "Master compliance auditing techniques and reporting procedures for businesses.",
                     img: "https://example.com/image803.jpg",
@@ -1772,7 +1961,7 @@
                   
                  
                    {
-                    id:163,
+                    id:182,
                     title: "Ethical Compliance in the Workplace",
                     des: "Explore ethical compliance practices to foster a positive and inclusive workplace culture.",
                     img: "https://example.com/image804.jpg",
@@ -1782,7 +1971,7 @@
                     type: "Compliance"
                   },
                   {
-                    id:164,
+                    id:183,
                     title: "Environmental Compliance Standards",
                     des: "Understand environmental compliance standards and their impact on business operations.",
                     img: "https://example.com/image805.jpg",
@@ -1792,7 +1981,40 @@
                     type: "Compliance"
                   },
                   {
-                    id:165,
+                    id:184,
+                    title: "Corporate Compliance Essentials",
+                    des: "Understand the essentials of corporate compliance for ethical and legal business practices.",
+                    img: "https://example.com/image801.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Compliance"
+                  },
+                  
+                  {
+                    id:185,
+                    title: "Legal Compliance in Business",
+                    des: "Learn about legal compliance requirements and practices for a compliant business operation.",
+                    img: "https://example.com/image802.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Compliance"
+                  },
+                  
+                 {
+                    id:186,
+                    title: "Compliance Auditing and Reporting",
+                    des: "Master compliance auditing techniques and reporting procedures for businesses.",
+                    img: "https://example.com/image803.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Compliance"
+                  },
+                  
+                  {
+                    id:187,
                     title: "Economic Principles and Theories",
                     des: "Explore fundamental economic principles and theories that shape business and markets.",
                     img: "https://example.com/image901.jpg",
@@ -1803,7 +2025,7 @@
                   },
                 
                   {
-                    id:166,
+                    id:188,
                     title: "Global Economic Trends",
                     des: "Understand global economic trends and their impact on businesses and industries.",
                     img: "https://example.com/image902.jpg",
@@ -1813,7 +2035,7 @@
                     type: "Economic"
                   },
                   {
-                    id:167,
+                    id:189,
                     title: "Economic Analysis for Decision-Making",
                     des: "Learn economic analysis techniques for making informed decisions in business.",
                     img: "https://example.com/image903.jpg",
@@ -1824,7 +2046,7 @@
                   },
                   
                    {
-                    id:168,
+                    id:190,
                     title: "Economic Impact Assessment",
                     des: "Conduct economic impact assessments to evaluate the effects of business operations.",
                     img: "https://example.com/image904.jpg",
@@ -1833,9 +2055,40 @@
                     price: 54.99,
                     type: "Economic"
                   },
+                  {
+                    id:191,
+                    title: "Economic Principles and Theories",
+                    des: "Explore fundamental economic principles and theories that shape business and markets.",
+                    img: "https://example.com/image901.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Economic"
+                  },
+                
+                  {
+                    id:192,
+                    title: "Global Economic Trends",
+                    des: "Understand global economic trends and their impact on businesses and industries.",
+                    img: "https://example.com/image902.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Economic"
+                  },
+                  {
+                    id:193,
+                    title: "Economic Analysis for Decision-Making",
+                    des: "Learn economic analysis techniques for making informed decisions in business.",
+                    img: "https://example.com/image903.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Economic"
+                  },
                   
                    {
-                    id:169,
+                    id:194,
                     title: "Economics of Sustainable Development",
                     des: "Explore the economics of sustainable development and its role in business strategies.",
                     img: "https://example.com/image905.jpg",
@@ -1847,7 +2100,7 @@
 
                    
                   {
-                    id:170,
+                    id:195,
                     title: "Financial Management Fundamentals",
                     des: "Build a strong foundation in financial management principles for business success.",
                     img: "https://example.com/image1001.jpg",
@@ -1858,7 +2111,7 @@
                   },
                   
                   {
-                    id:171,
+                    id:196,
                     title: "Investment Strategies and Portfolio Management",
                     des: "Explore effective investment strategies and learn portfolio management techniques.",
                     img: "https://example.com/image1002.jpg",
@@ -1869,7 +2122,7 @@
                   },
                   
                  {
-                    id:172,
+                    id:197,
                     title: "Corporate Finance and Valuation",
                     des: "Understand corporate finance principles and valuation techniques for businesses.",
                     img: "https://example.com/image1003.jpg",
@@ -1880,7 +2133,7 @@
                   },
                   
                   {
-                    id:173,
+                    id:198,
                     title: "Financial Risk Management",
                     des: "Learn strategies for managing financial risks and protecting business assets.",
                     img: "https://example.com/image1004.jpg",
@@ -1890,7 +2143,7 @@
                     type: "Finance"
                   },
            {
-                    id:174,
+                    id:200,
                     title: "International Finance and Trade",
                     des: "Explore the dynamics of international finance and its impact on global trade.",
                     img: "https://example.com/image1005.jpg",
@@ -1900,7 +2153,39 @@
                     type: "Finance"
                   },
                   {
-                    id:175,
+                    id:201,
+                    title: "Financial Management Fundamentals",
+                    des: "Build a strong foundation in financial management principles for business success.",
+                    img: "https://example.com/image1001.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Finance"
+                  },
+                  
+                  {
+                    id:202,
+                    title: "Investment Strategies and Portfolio Management",
+                    des: "Explore effective investment strategies and learn portfolio management techniques.",
+                    img: "https://example.com/image1002.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Finance"
+                  },
+                  
+                 {
+                    id:203,
+                    title: "Corporate Finance and Valuation",
+                    des: "Understand corporate finance principles and valuation techniques for businesses.",
+                    img: "https://example.com/image1003.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Finance"
+                  },
+                  {
+                    id:204,
                     title: "Tax Planning for Small Businesses",
                     des: "Implement effective tax planning strategies tailored for small businesses.",
                     img: "https://example.com/image1201.jpg",
@@ -1910,7 +2195,7 @@
                     type: "Taxes"
                   },
                  {
-                    id:176,
+                    id:205,
                     title: "Corporate Taxation Principles",
                     des: "Understand fundamental principles of corporate taxation and compliance requirements.",
                     img: "https://example.com/image1202.jpg",
@@ -1921,7 +2206,7 @@
                   },
                   
                    {
-                    id:177,
+                    id:206,
                     title: "Tax Compliance and Reporting",
                     des: "Master tax compliance practices and reporting procedures for businesses.",
                     img: "https://example.com/image1203.jpg",
@@ -1932,7 +2217,7 @@
                   },
                   
                   {
-                    id:178,
+                    id:207,
                     title: "International Tax Strategies",
                     des: "Explore tax strategies for businesses engaged in international trade and operations.",
                     img: "https://example.com/image1204.jpg",
@@ -1942,7 +2227,7 @@
                     type: "Taxes"
                   },
                  {
-                    id:179,
+                    id:208,
                     title: "Taxation and Legal Considerations",
                     des: "Understand legal considerations associated with taxation and their impact on business.",
                     img: "https://example.com/image1205.jpg",
@@ -1951,8 +2236,39 @@
                     price: 49.99,
                     type: "Taxes"
                   },
+                  {
+                    id:209,
+                    title: "Tax Planning for Small Businesses",
+                    des: "Implement effective tax planning strategies tailored for small businesses.",
+                    img: "https://example.com/image1201.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Taxes"
+                  },
+                 {
+                    id:210,
+                    title: "Corporate Taxation Principles",
+                    des: "Understand fundamental principles of corporate taxation and compliance requirements.",
+                    img: "https://example.com/image1202.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Taxes"
+                  },
+                  
+                   {
+                    id:211,
+                    title: "Tax Compliance and Reporting",
+                    des: "Master tax compliance practices and reporting procedures for businesses.",
+                    img: "https://example.com/image1203.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Taxes"
+                  },
                 {
-                    id:180,
+                    id:212,
                     title: "IT Certification Essentials",
                     des: "Master the essentials of IT certification and enhance your skills for career advancement.",
                     img: "https://example.com/image1401.jpg",
@@ -1963,7 +2279,7 @@
                   },
                   
                  {
-                    id:181,
+                    id:213,
                     title: "Certified IT Professional Training",
                     des: "Receive comprehensive training to become a certified IT professional in your chosen field.",
                     img: "https://example.com/image1402.jpg",
@@ -1974,7 +2290,7 @@
                   },
                   
               {
-                    id:182,
+                    id:214,
                     title: "Advanced IT Certification Courses",
                     des: "Explore advanced IT certification courses to stay at the forefront of technological trends.",
                     img: "https://example.com/image1403.jpg",
@@ -1985,7 +2301,7 @@
                   },
                   
                    {
-                    id:183,
+                    id:215,
                     title: "IT Security Certification",
                     des: "Gain expertise in IT security and earn a certification for securing digital assets.",
                     img: "https://example.com/image1404.jpg",
@@ -1996,7 +2312,7 @@
                   },
                   
                   {
-                    id:184,
+                    id:216,
                     title: "Cloud Computing Certification",
                     des: "Get certified in cloud computing and expand your skills in cloud-based technologies.",
                     img: "https://example.com/image1405.jpg",
@@ -2005,9 +2321,41 @@
                     price: 49.99,
                     type: "IT Certification"
                   },
+                  {
+                    id:217,
+                    title: "IT Certification Essentials",
+                    des: "Master the essentials of IT certification and enhance your skills for career advancement.",
+                    img: "https://example.com/image1401.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "IT Certification"
+                  },
+                  
+                 {
+                    id:218,
+                    title: "Certified IT Professional Training",
+                    des: "Receive comprehensive training to become a certified IT professional in your chosen field.",
+                    img: "https://example.com/image1402.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "IT Certification"
+                  },
+                  
+              {
+                    id:219,
+                    title: "Advanced IT Certification Courses",
+                    des: "Explore advanced IT certification courses to stay at the forefront of technological trends.",
+                    img: "https://example.com/image1403.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "IT Certification"
+                  },
 
                   {
-                    id:185,
+                    id:220,
                     title: "Network Security Fundamentals",
                     des: "Build a strong foundation in network security fundamentals to protect digital assets.",
                     img: "https://example.com/image1501.jpg",
@@ -2018,7 +2366,7 @@
                   },
                   
                   {
-                    id:186,
+                    id:221,
                     title: "Certified Network Professional Training",
                     des: "Receive comprehensive training to become a certified network professional with expertise.",
                     img: "https://example.com/image1502.jpg",
@@ -2029,7 +2377,7 @@
                   },
                   
                   {
-                    id:187,
+                    id:222,
                     title: "Advanced Network Security Courses",
                     des: "Explore advanced network security courses to stay at the forefront of cybersecurity.",
                     img: "https://example.com/image1503.jpg",
@@ -2040,7 +2388,7 @@
                   },
                   
                  {
-                    id:188,
+                    id:223,
                     title: "Cloud Security Certification",
                     des: "Get certified in cloud security and expand your skills in securing cloud-based technologies.",
                     img: "https://example.com/image1504.jpg",
@@ -2051,7 +2399,7 @@
                   },
                   
                 {
-                    id:189,
+                    id:224,
                     title: "Ethical Hacking and Cybersecurity",
                     des: "Explore ethical hacking techniques and cybersecurity practices for a secure network.",
                     img: "https://example.com/image1505.jpg",
@@ -2060,9 +2408,41 @@
                     price: 49.99,
                     type: "Network & Security"
                   },
+                  {
+                    id:225,
+                    title: "Network Security Fundamentals",
+                    des: "Build a strong foundation in network security fundamentals to protect digital assets.",
+                    img: "https://example.com/image1501.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Network & Security"
+                  },
+                  
+                  {
+                    id:226,
+                    title: "Certified Network Professional Training",
+                    des: "Receive comprehensive training to become a certified network professional with expertise.",
+                    img: "https://example.com/image1502.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Network & Security"
+                  },
+                  
+                  {
+                    id:227,
+                    title: "Advanced Network Security Courses",
+                    des: "Explore advanced network security courses to stay at the forefront of cybersecurity.",
+                    img: "https://example.com/image1503.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Network & Security"
+                  },
 
                    {
-                    id:190,
+                    id:228,
                     title: "Hardware Essentials",
                     des: "Explore the fundamentals of hardware and gain essential knowledge for IT professionals.",
                     img: "https://example.com/image1601.jpg",
@@ -2073,7 +2453,7 @@
                   },
                   
                  {
-                    id:191,
+                    id:229,
                     title: "Certified Hardware Technician Training",
                     des: "Receive comprehensive training to become a certified hardware technician with expertise.",
                     img: "https://example.com/image1602.jpg",
@@ -2084,7 +2464,7 @@
                   },
                   
                   {
-                    id:192,
+                    id:230,
                     title: "Advanced Hardware Courses",
                     des: "Explore advanced hardware courses to stay at the forefront of technological advancements.",
                     img: "https://example.com/image1603.jpg",
@@ -2095,7 +2475,7 @@
                   },
                   
                  {
-                    id:193,
+                    id:231,
                     title: "Network Hardware Certification",
                     des: "Get certified in network hardware and expand your skills in configuring network devices.",
                     img: "https://example.com/image1604.jpg",
@@ -2106,7 +2486,7 @@
                   },
                   
                   {
-                    id:194,
+                    id:232,
                     title: "Embedded Systems and Hardware Design",
                     des: "Explore the design and development of embedded systems and hardware components.",
                     img: "https://example.com/image1605.jpg",
@@ -2117,7 +2497,40 @@
                   },
 
                   {
-                    id:195,
+                    id:233,
+                    title: "Hardware Essentials",
+                    des: "Explore the fundamentals of hardware and gain essential knowledge for IT professionals.",
+                    img: "https://example.com/image1601.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Hardware"
+                  },
+                  
+                 {
+                    id:234,
+                    title: "Certified Hardware Technician Training",
+                    des: "Receive comprehensive training to become a certified hardware technician with expertise.",
+                    img: "https://example.com/image1602.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Hardware"
+                  },
+                  
+                  {
+                    id:235,
+                    title: "Advanced Hardware Courses",
+                    des: "Explore advanced hardware courses to stay at the forefront of technological advancements.",
+                    img: "https://example.com/image1603.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Hardware"
+                  },
+                  
+                  {
+                    id:236,
                     title: "Operating System Fundamentals",
                     des: "Build a strong foundation in operating system fundamentals for efficient server management.",
                     img: "https://example.com/image1701.jpg",
@@ -2128,7 +2541,7 @@
                   },
                   
                 {
-                    id:196,
+                    id:237,
                     title: "Server Administration and Management",
                     des: "Learn effective server administration techniques for maintaining a stable IT infrastructure.",
                     img: "https://example.com/image1702.jpg",
@@ -2139,7 +2552,7 @@
                   },
                   
                  {
-                    id:197,
+                    id:238,
                     title: "Advanced Operating System Courses",
                     des: "Explore advanced operating system courses to stay at the forefront of server technologies.",
                     img: "https://example.com/image1703.jpg",
@@ -2150,7 +2563,7 @@
                   },
                   
                   {
-                    id:198,
+                    id:239,
                     title: "Server Security and Configuration",
                     des: "Enhance server security and configuration skills for a robust IT infrastructure.",
                     img: "https://example.com/image1704.jpg",
@@ -2161,7 +2574,7 @@
                   },
                   
                    {
-                    id:199,
+                    id:240,
                     title: "Network Operating Systems",
                     des: "Explore network operating systems and their role in managing distributed server environments.",
                     img: "https://example.com/image1705.jpg",
@@ -2170,9 +2583,42 @@
                     price: 49.99,
                     type: "Operating system & Servers"
                   },
+                  {
+                    id:241,
+                    title: "Operating System Fundamentals",
+                    des: "Build a strong foundation in operating system fundamentals for efficient server management.",
+                    img: "https://example.com/image1701.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Operating system & Servers"
+                  },
+                  
+                {
+                    id:242,
+                    title: "Server Administration and Management",
+                    des: "Learn effective server administration techniques for maintaining a stable IT infrastructure.",
+                    img: "https://example.com/image1702.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Operating system & Servers"
+                  },
+                  
+                 {
+                    id:243,
+                    title: "Advanced Operating System Courses",
+                    des: "Explore advanced operating system courses to stay at the forefront of server technologies.",
+                    img: "https://example.com/image1703.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Operating system & Servers"
+                  },
+                  
 
                 {
-                    id:200,
+                    id:244,
                     title: "Introduction to IT Fundamentals",
                     des: "Get an introduction to IT fundamentals covering a wide range of software and technologies.",
                     img: "https://example.com/image1801.jpg",
@@ -2183,7 +2629,7 @@
                   },
                   
                   {
-                    id:201,
+                    id:245,
                     title: "Software Development Principles",
                     des: "Learn the principles of software development and understand its role in modern IT.",
                     img: "https://example.com/image1802.jpg",
@@ -2194,7 +2640,7 @@
                   },
 
                   {
-                    id:202,
+                    id:246,
                     title: "IT Project Management",
                     des: "Explore project management in IT and gain skills to oversee successful software projects.",
                     img: "https://example.com/image1803.jpg",
@@ -2205,7 +2651,7 @@
                   },
                   
              {
-                    id:203,
+                    id:247,
                     title: "Database Management Systems",
                     des: "Gain expertise in managing database systems for efficient data storage and retrieval.",
                     img: "https://example.com/image1804.jpg",
@@ -2216,7 +2662,7 @@
                   },
                   
                 {
-                    id:204,
+                    id:248,
                     title: "IT Infrastructure and Support",
                     des: "Understand IT infrastructure and support systems to ensure smooth software operation.",
                     img: "https://example.com/image1805.jpg",
@@ -2226,7 +2672,39 @@
                     type: "Other IT & Software"
                   },
                   {
-                    id:205,
+                    id:249,
+                    title: "Introduction to IT Fundamentals",
+                    des: "Get an introduction to IT fundamentals covering a wide range of software and technologies.",
+                    img: "https://example.com/image1801.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Other IT & Software"
+                  },
+                  
+                  {
+                    id:250,
+                    title: "Software Development Principles",
+                    des: "Learn the principles of software development and understand its role in modern IT.",
+                    img: "https://example.com/image1802.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Other IT & Software"
+                  },
+
+                  {
+                    id:251,
+                    title: "IT Project Management",
+                    des: "Explore project management in IT and gain skills to oversee successful software projects.",
+                    img: "https://example.com/image1803.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Other IT & Software"
+                  },
+                  {
+                    id:252,
                     title: "Web Design Fundamentals",
                     des: "Explore the fundamentals of web design and learn essential principles for creating engaging websites.",
                     img: "https://example.com/image1901.jpg",
@@ -2237,7 +2715,7 @@
                   },
                   
                    {
-                    id:206,
+                    id:253,
                     title: "Responsive Web Design Techniques",
                     des: "Learn techniques for creating responsive web designs that adapt to various screen sizes and devices.",
                     img: "https://example.com/image1902.jpg",
@@ -2248,7 +2726,7 @@
                   },
                   
                  {
-                    id:207,
+                    id:254,
                     title: "User Experience (UX) Design",
                     des: "Understand the principles of user experience design to create intuitive and user-friendly websites.",
                     img: "https://example.com/image1903.jpg",
@@ -2259,7 +2737,7 @@
                   },
                   
                    {
-                    id:208,
+                    id:255,
                     title: "Graphic Design for Web Developers",
                     des: "Explore graphic design techniques for enhancing visual elements in web development.",
                     img: "https://example.com/image1904.jpg",
@@ -2270,7 +2748,7 @@
                   },
                   
                    {
-                    id:209,
+                    id:256,
                     title: "Advanced Web Design Practices",
                     des: "Explore advanced web design practices and stay at the forefront of modern web development.",
                     img: "https://example.com/image1905.jpg",
@@ -2279,9 +2757,41 @@
                     price: 49.99,
                     type: "Web Design"
                   },
+                  {
+                    id:257,
+                    title: "Web Design Fundamentals",
+                    des: "Explore the fundamentals of web design and learn essential principles for creating engaging websites.",
+                    img: "https://example.com/image1901.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Web Design"
+                  },
+                  
+                   {
+                    id:258,
+                    title: "Responsive Web Design Techniques",
+                    des: "Learn techniques for creating responsive web designs that adapt to various screen sizes and devices.",
+                    img: "https://example.com/image1902.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Web Design"
+                  },
+                  
+                 {
+                    id:259,
+                    title: "User Experience (UX) Design",
+                    des: "Understand the principles of user experience design to create intuitive and user-friendly websites.",
+                    img: "https://example.com/image1903.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Web Design"
+                  },
 
                    {
-                    id: 210,
+                    id: 260,
                     title: "Game Design Fundamentals",
                     des: "Explore the fundamentals of game design and learn essential principles for creating engaging games.",
                     img: "https://example.com/image2001.jpg",
@@ -2292,7 +2802,7 @@
                   },
                   
                    {
-                    id: 211,
+                    id: 261,
                     title: "Character Design for Games",
                     des: "Learn character design techniques for creating memorable and visually appealing game characters.",
                     img: "https://example.com/image2002.jpg",
@@ -2303,7 +2813,7 @@
                   },
                   
                   {
-                    id: 212,
+                    id: 262,
                     title: "Level Design and Gameplay Mechanics",
                     des: "Explore level design and gameplay mechanics to create immersive and enjoyable game experiences.",
                     img: "https://example.com/image2003.jpg",
@@ -2313,7 +2823,7 @@
                     type: "Game Design"
                   },
                   {
-                    id: 213,
+                    id: 263,
                     title: "Game Art and Animation",
                     des: "Explore game art and animation techniques for bringing games to life with stunning visuals.",
                     img: "https://example.com/image2004.jpg",
@@ -2324,7 +2834,7 @@
                   },
                   
                  {
-                    id: 214,
+                    id: 264,
                     title: "Advanced Game Design Practices",
                     des: "Explore advanced game design practices and stay at the forefront of modern game development.",
                     img: "https://example.com/image2005.jpg",
@@ -2333,8 +2843,40 @@
                     price: 49.99,
                     type: "Game Design"
                   },
+                  {
+                    id: 265,
+                    title: "Game Design Fundamentals",
+                    des: "Explore the fundamentals of game design and learn essential principles for creating engaging games.",
+                    img: "https://example.com/image2001.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Game Design"
+                  },
+                  
                    {
-                    id: 215,
+                    id: 266,
+                    title: "Character Design for Games",
+                    des: "Learn character design techniques for creating memorable and visually appealing game characters.",
+                    img: "https://example.com/image2002.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Game Design"
+                  },
+                  
+                  {
+                    id: 267,
+                    title: "Level Design and Gameplay Mechanics",
+                    des: "Explore level design and gameplay mechanics to create immersive and enjoyable game experiences.",
+                    img: "https://example.com/image2003.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Game Design"
+                  },
+                   {
+                    id: 268,
                     title: "Introduction to 3D Modeling",
                     des: "Get an introduction to 3D modeling and learn the basics of creating three-dimensional objects.",
                     img: "https://example.com/image2101.jpg",
@@ -2345,7 +2887,7 @@
                   },
                   
                 {
-                    id: 216,
+                    id: 269,
                     title: "Character Animation Techniques",
                     des: "Learn character animation techniques to bring 3D characters to life with realistic movements.",
                     img: "https://example.com/image2102.jpg",
@@ -2356,7 +2898,7 @@
                   },
                   
                    {
-                    id: 217,
+                    id: 270,
                     title: "Visual Effects in 3D Animation",
                     des: "Explore visual effects in 3D animation and create stunning visuals for film and multimedia.",
                     img: "https://example.com/image2103.jpg",
@@ -2367,7 +2909,7 @@
                   },
                   
                    {
-                    id: 218,
+                    id: 271,
                     title: "3D Animation for Games",
                     des: "Learn 3D animation techniques for creating dynamic and immersive game experiences.",
                     img: "https://example.com/image2104.jpg",
@@ -2378,7 +2920,7 @@
                   },
                   
                  {
-                    id: 219,
+                    id: 272,
                     title: "Advanced 3D Animation Practices",
                     des: "Explore advanced 3D animation practices and stay at the forefront of modern animation.",
                     img: "https://example.com/image2105.jpg",
@@ -2387,9 +2929,41 @@
                     price: 49.99,
                     type: "3D & Animation"
                   },
+                  {
+                    id: 273,
+                    title: "Introduction to 3D Modeling",
+                    des: "Get an introduction to 3D modeling and learn the basics of creating three-dimensional objects.",
+                    img: "https://example.com/image2101.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "3D & Animation"
+                  },
+                  
+                {
+                    id: 274,
+                    title: "Character Animation Techniques",
+                    des: "Learn character animation techniques to bring 3D characters to life with realistic movements.",
+                    img: "https://example.com/image2102.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "3D & Animation"
+                  },
+                  
+                   {
+                    id: 275,
+                    title: "Visual Effects in 3D Animation",
+                    des: "Explore visual effects in 3D animation and create stunning visuals for film and multimedia.",
+                    img: "https://example.com/image2103.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "3D & Animation"
+                  },
 
                  {
-                    id: 219,
+                    id:276,
                     title: "Fashion Design Fundamentals",
                     des: "Explore the fundamentals of fashion design and learn essential principles for creating stylish garments.",
                     img: "https://example.com/image2201.jpg",
@@ -2400,7 +2974,7 @@
                   },
                   
                  {
-                    id: 220,
+                    id: 277,
                     title: "Textile Design Techniques",
                     des: "Learn textile design techniques for creating unique patterns and textures in fashion.",
                     img: "https://example.com/image2202.jpg",
@@ -2411,7 +2985,7 @@
                   },
                   
                   {
-                    id: 221,
+                    id: 278,
                     title: "Haute Couture and Runway Fashion",
                     des: "Explore haute couture and runway fashion to understand the artistry behind high-end fashion.",
                     img: "https://example.com/image2203.jpg",
@@ -2422,7 +2996,7 @@
                   },
                   
                   {
-                    id: 222,
+                    id: 279,
                     title: "Fashion Illustration and Sketching",
                     des: "Learn fashion illustration and sketching techniques to visually communicate design ideas.",
                     img: "https://example.com/image2204.jpg",
@@ -2433,7 +3007,7 @@
                   },
                   
                   {
-                    id: 223,
+                    id: 280,
                     title: "Advanced Fashion Design Practices",
                     des: "Explore advanced fashion design practices and stay at the forefront of modern fashion trends.",
                     img: "https://example.com/image2205.jpg",
@@ -2443,7 +3017,39 @@
                     type: "Fashion Design"
                   },
                   {
-                    id: 223,
+                    id: 281,
+                    title: "Fashion Design Fundamentals",
+                    des: "Explore the fundamentals of fashion design and learn essential principles for creating stylish garments.",
+                    img: "https://example.com/image2201.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Fashion Design"
+                  },
+                  
+                 {
+                    id: 282,
+                    title: "Textile Design Techniques",
+                    des: "Learn textile design techniques for creating unique patterns and textures in fashion.",
+                    img: "https://example.com/image2202.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Fashion Design"
+                  },
+                  
+                  {
+                    id: 283,
+                    title: "Haute Couture and Runway Fashion",
+                    des: "Explore haute couture and runway fashion to understand the artistry behind high-end fashion.",
+                    img: "https://example.com/image2203.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Fashion Design"
+                  },
+                  {
+                    id: 284,
                     title: "Introduction to Design Principles",
                     des: "Get an introduction to design principles and explore the foundational concepts in design.",
                     img: "https://example.com/image2301.jpg",
@@ -2453,7 +3059,7 @@
                     type: "Other Design"
                   },
                 {
-                    id: 224,
+                    id: 285,
                     title: "Creative Design Thinking",
                     des: "Learn creative design thinking techniques to approach problem-solving from a design perspective.",
                     img: "https://example.com/image2302.jpg",
@@ -2464,7 +3070,7 @@
                   },
                   
                    {
-                    id: 225,
+                    id: 286,
                     title: "Design for Sustainability",
                     des: "Explore design for sustainability and understand the role of design in environmental conservation.",
                     img: "https://example.com/image2303.jpg",
@@ -2475,7 +3081,7 @@
                   },
                   
                  {
-                    id: 225,
+                    id: 287,
                     title: "Interactive Design Practices",
                     des: "Learn interactive design practices and create engaging and user-friendly digital experiences.",
                     img: "https://example.com/image2304.jpg",
@@ -2485,7 +3091,7 @@
                     type: "Other Design"
                   },
                    {
-                    id: 226,
+                    id: 288,
                     title: "Advanced Design Techniques",
                     des: "Explore advanced design techniques and stay at the forefront of modern design trends.",
                     img: "https://example.com/image2305.jpg",
@@ -2493,7 +3099,39 @@
                     rating: "4.5⭐",
                     price: 49.99,
                     type: "Other Design"
-                  }
+                  },
+                  {
+                    id: 289,
+                    title: "Introduction to Design Principles",
+                    des: "Get an introduction to design principles and explore the foundational concepts in design.",
+                    img: "https://example.com/image2301.jpg",
+                    writer: "Sophie Turner",
+                    rating: "4.7⭐",
+                    price: 59.99,
+                    type: "Other Design"
+                  },
+                {
+                    id: 290,
+                    title: "Creative Design Thinking",
+                    des: "Learn creative design thinking techniques to approach problem-solving from a design perspective.",
+                    img: "https://example.com/image2302.jpg",
+                    writer: "Ethan Turner",
+                    rating: "4.8⭐",
+                    price: 64.99,
+                    type: "Other Design"
+                  },
+                  
+                   {
+                    id: 291,
+                    title: "Design for Sustainability",
+                    des: "Explore design for sustainability and understand the role of design in environmental conservation.",
+                    img: "https://example.com/image2303.jpg",
+                    writer: "Isabella Turner",
+                    rating: "4.9⭐",
+                    price: 69.99,
+                    type: "Other Design"
+                  },
+                  
                   
                  
                   
