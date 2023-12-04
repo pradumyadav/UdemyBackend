@@ -14,4 +14,27 @@ const { allDataStoreSchema } = require("../model/alldataSchema")
             res.send(second)
         }
 
-        module.exports= {postalldata,getalldata}
+
+        const mysearch= async (req,res)=>{
+            const {type} = req.query
+            console.log(type);
+        
+            const queryObj = {}
+        
+            
+            if(type){
+                queryObj.type = {$regex : type , $options : "i"};
+            }
+        
+            if(!type)
+            {
+                return res.send("Invalid search")
+            }
+           
+
+            const search = await allDataStoreSchema.find(queryObj)
+            
+            return res.send(search)
+        }
+
+        module.exports= {postalldata,getalldata,mysearch}

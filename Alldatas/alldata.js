@@ -3123,7 +3123,7 @@
                   
                    {
                     id: 291,
-                    title: "Design for Sustainability",
+                    title:"Design for Sustainability",
                     des: "Explore design for sustainability and understand the role of design in environmental conservation.",
                     img: "https://img-c.udemycdn.com/course/240x135/1259404_72d4_21.jpg",
                     writer: "Isabella Turner",
