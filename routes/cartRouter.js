@@ -1,8 +1,9 @@
 const express = require('express');
-const { addToCart, fetchCartByUser, deleteFromCart } = require('../Controller/cartController');
+const { deleteFromCart, cartFind, addToCart } = require('../Controller/cartController');
 const router = express.Router();
 
-router.post('/addToCart', addToCart)
-      .post('/fetchCartByUser', fetchCartByUser)
+router.post('/addToCart',addToCart)
+      .get("/cartfind",cartFind)
       .delete('/:id', deleteFromCart)
+      
 module.exports = router;

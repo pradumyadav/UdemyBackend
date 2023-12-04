@@ -33,11 +33,11 @@ app.post("/out/create-checkout-session", async (req, res) => {
     price_data: {
       currency: "inr",
       product_data: {
-        name: product.item.title,
+        name: product.title,
       },
-      unit_amount: product.item.price * 100,
+      unit_amount: product.price * 100,
     },
-    quantity: product.item.quantity || 1,
+    quantity: product.quantity || 1,
   }));
   
   const session = await stripe.checkout.sessions.create({

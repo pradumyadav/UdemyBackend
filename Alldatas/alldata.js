@@ -3131,9 +3131,2247 @@
                     price: 69.99,
                     type: "Other Design"
                   },
+                  {
+                    id:292,
+                    title:"Powerful Business Writing: How to Write Concisely",
+                    des:"A concise business writing course for punchy, professional and powerful writing – at work, at university, on your blog",
+                    img:"https://img-c.udemycdn.com/course/240x135/949846_23f1_4.jpg",
+                    writer:"Caroline McDevitt",
+                    rating:"4.6⭐⭐⭐⭐⭐",
+                    price:699,
+                    type:"Digital Marketing"
+    
+                },
+                {
+                    id: 293,
+                    title: "Effective Business Communication Strategies",
+                    des: "Master the art of business communication with practical strategies and examples.",
+                    img: "https://img-c.udemycdn.com/course/240x135/14284_6833_17.jpg",
+                    writer: "Emma Johnson",
+                    rating: "4.5⭐⭐⭐⭐⭐",
+                    price: 4999,
+                    type: "Digital Marketing"
+                  },
+                  {
+                    id: 294,
+                    title: "Advanced Communication Skills Workshop",
+                    des: "Take your communication skills to the next level through interactive workshops and exercises.",
+                    img: "https://img-c.udemycdn.com/course/240x135/23972_35ee_13.jpg",
+                    writer: "John Smith",
+                    rating: "4.8⭐",
+                    price: 5999,
+                    type: "Digital Marketing"
+                  },
+                  {
+                    
+                        id: 295,
+                        title: "Strategic Communication Planning",
+                        des: "Learn to develop and implement effective communication plans for businesses and organizations.",
+                        img: "https://img-c.udemycdn.com/course/240x135/25671_f3b1_4.jpg",
+                        writer: "Sophia Davis",
+                        rating: "4.7⭐",
+                        price: 6999,
+                        type: "Digital Marketing"
+    
+                      },
+                      {
+                        id: 296,
+                        title: "Interpersonal Communication Mastery",
+                        des: "Enhance your interpersonal communication skills for successful personal and professional relationships.",
+                        img: "https://img-c.udemycdn.com/course/240x135/36099_7809_6.jpg",
+                        writer: "Alex Turner",
+                        rating: "4.6⭐",
+                        price: 5499,
+                        type: "Digital Marketing"
+                      },
+                      {
+                        id: 297,
+                        title: "Advanced Communication Skills Workshop",
+                        des: "Take your communication skills to the next level through interactive workshops and exercises.",
+                        img: "https://img-c.udemycdn.com/course/240x135/38545_03aa_6.jpg",
+                        writer: "John Smith",
+                        rating: "4.8⭐",
+                        price: 5999,
+                        type: "Digital Marketing"
+                      },
+                      {
+                        
+                            id: 298,
+                            title: "Strategic Communication Planning",
+                            des: "Learn to develop and implement effective communication plans for businesses and organizations.",
+                            img: "https://img-c.udemycdn.com/course/240x135/44267_e69e_6.jpg",
+                            writer: "Sophia Davis",
+                            rating: "4.7⭐",
+                            price: 6999,
+                            type: "Digital Marketing"
+        
+                          },
+                          {
+                            id: 299,
+                            title: "Interpersonal Communication Mastery",
+                            des: "Enhance your interpersonal communication skills for successful personal and professional relationships.",
+                            img: "https://img-c.udemycdn.com/course/240x135/1355610_375a_5.jpg",
+                            writer: "Alex Turner",
+                            rating: "4.6⭐",
+                            price: 5499,
+                            type: "Digital Marketing"
+                          },
+                      {
+                        id: 300,
+                        title: "Leadership Strategies for Effective Management",
+                        des: "Explore proven leadership strategies for effective management in various organizational settings.",
+                        img: "https://img-c.udemycdn.com/course/240x135/15305_0987_6.jpg",
+                        writer: "Eleanor Davis",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Social Media Marketing"
+                      },
+                      {
+                        id: 301,
+                        title: "Strategic Project Management",
+                        des: "Learn the principles of strategic project management and enhance your project leadership skills.",
+                        img: "https://img-c.udemycdn.com/course/240x135/34268_4bc5_17.jpg",
+                        writer: "Benjamin Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Social Media Marketing"
+                      },
+                      
+                     {
+                        id: 302,
+                        title: "Effective Team Communication in Management",
+                        des: "Develop effective communication strategies to lead and manage successful teams in any industry.",
+                        img: "https://img-c.udemycdn.com/course/240x135/57427_1fdb_6.jpg",
+                        writer: "Isabella Garcia",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Social Media Marketing"
+                      },
+                       {
+                        id: 303,
+                        title: "Financial Management for Business Leaders",
+                        des: "Understand key financial management concepts to make informed decisions as a business leader.",
+                        img: "https://img-c.udemycdn.com/course/240x135/65833_2997_3.jpg",
+                        writer: "Nathan Miller",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Social Media Marketing"
+                      },
+                      
+                     {
+                        id: 304,
+                        title: "Conflict Resolution and Decision-Making in Management",
+                        des: "Master conflict resolution and decision-making skills essential for effective management roles.",
+                        img: "https://img-c.udemycdn.com/course/240x135/613808_3c1c_6.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Social Media Marketing"
+                      },
+                      {
+                        id: 305,
+                        title: "Leadership Strategies for Effective Management",
+                        des: "Explore proven leadership strategies for effective management in various organizational settings.",
+                        img: "https://img-c.udemycdn.com/course/240x135/110240_9cb3_8.jpg",
+                        writer: "Eleanor Davis",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Social Media Marketing"
+                      },
+                      {
+                        id: 306,
+                        title: "Strategic Project Management",
+                        des: "Learn the principles of strategic project management and enhance your project leadership skills.",
+                        img: "https://img-c.udemycdn.com/course/240x135/115440_8349_27.jpg",
+                        writer: "Benjamin Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Social Media Marketing"
+                      },
+                      
+                     {
+                        id: 307,
+                        title: "Effective Team Communication in Management",
+                        des: "Develop effective communication strategies to lead and manage successful teams in any industry.",
+                        img: "https://img-c.udemycdn.com/course/240x135/110240_9cb3_8.jpg",
+                        writer: "Isabella Garcia",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Social Media Marketing"
+                      },
+                       
+                     {
+                        id:308,
+                        title: "Strategic Planning for Business Success",
+                        des: "Master the art of strategic planning to drive business success in a competitive environment.",
+                        img: "https://img-c.udemycdn.com/course/240x135/17782_50e2_14.jpg",
+                        writer: "Emily Adams",
+                        rating: "4.8⭐",
+                        price: 69.99,
+                        type: "Content Marketing"
+                      },
+                      
+                      {
+                        id: 309,
+                        title: "Business Innovation and Growth Strategies",
+                        des: "Explore innovative strategies for business growth and stay ahead in the ever-changing market.",
+                        img: "https://img-c.udemycdn.com/course/240x135/67740_ce84_11.jpg",
+                        writer: "Matthew Turner",
+                        rating: "4.9⭐",
+                        price: 79.99,
+                        type: "Content Marketing"
+                      },
+                     {
+                        id:310,
+                        title: "Leadership in Business Strategy",
+                        des: "Develop leadership skills for effective business strategy implementation and organizational success.",
+                        img: "https://img-c.udemycdn.com/course/240x135/170840_3e57_5.jpg",
+                        writer: "Sophia Clark",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Content Marketing"
+                      },
+                      
+                      {
+                        id: 311,
+                        title: "Strategic Decision-Making in Business",
+                        des: "Enhance your decision-making skills to drive strategic initiatives and achieve business goals.",
+                        img: "https://img-c.udemycdn.com/course/240x135/179174_fe95_10.jpg",
+                        writer: "Andrew Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Content Marketing"
+                      },
+                      
+                      {
+                        id: 312,
+                        title: "Business Strategy for Sustainable Growth",
+                        des: "Implement sustainable business strategies for long-term growth and success in the market.",
+                        img: "https://img-c.udemycdn.com/course/240x135/220646_061f_4.jpg",
+                        writer: "Olivia Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Content Marketing"
+                      },
+                      {
+                        id:313,
+                        title: "Strategic Planning for Business Success",
+                        des: "Master the art of strategic planning to drive business success in a competitive environment.",
+                        img: "https://img-c.udemycdn.com/course/240x135/240450_3b78_7.jpg",
+                        writer: "Emily Adams",
+                        rating: "4.8⭐",
+                        price: 69.99,
+                        type: "Content Marketing"
+                      },
+                      
+                      {
+                        id: 314,
+                        title: "Business Innovation and Growth Strategies",
+                        des: "Explore innovative strategies for business growth and stay ahead in the ever-changing market.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2409722_af72.jpg",
+                        writer: "Matthew Turner",
+                        rating: "4.9⭐",
+                        price: 79.99,
+                        type: "Content Marketing"
+                      },
+                     {
+                        id:315,
+                        title: "Leadership in Business Strategy",
+                        des: "Develop leadership skills for effective business strategy implementation and organizational success.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1361726_508a_2.jpg",
+                        writer: "Sophia Clark",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Content Marketing"
+                      },
+                     
+                        {
+                        id: 316,
+                        title: "Operations Management Essentials",
+                        des: "Learn the fundamental principles of operations management for efficient business processes.",
+                        img: "https://img-c.udemycdn.com/course/240x135/59772_57a8_9.jpg",
+                        writer: "Aiden Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: ""
+                      },
+                      
+                       {
+                        id: 317,
+                        title: "Supply Chain Operations Optimization",
+                        des: "Optimize supply chain operations to enhance efficiency and reduce operational costs.",
+                        img: "https://img-c.udemycdn.com/course/240x135/120872_80cf_16.jpg",
+                        writer: "Sophia Adams",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: ""
+                      },
+                      
+                      {
+                        id: 318,
+                        title: "Quality Management in Operations",
+                        des: "Explore strategies for ensuring quality in operations management for business excellence.",
+                        img: "https://img-c.udemycdn.com/course/240x135/120976_b4c7_7.jpg",
+                        writer: "Benjamin Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Public Relationship"
+                      },
+                      
+                      {
+                        id: 319,
+                        title: "Lean Operations Principles",
+                        des: "Implement lean principles for streamlined operations and improved organizational performance.",
+                        img: "https://img-c.udemycdn.com/course/240x135/120978_ea9a_8.jpg",
+                        writer: "Ella Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Public Relationship"
+                      },
+                      
+                      {
+                        id:320,
+                        title: "Project Management for Operations",
+                        des: "Apply project management techniques to optimize operations and achieve project success.",
+                        img: "https://img-c.udemycdn.com/course/240x135/123570_05bc_7.jpg",
+                        writer: "James Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Public Relationship"
+                      },
+                      {
+                        id: 321,
+                        title: "Supply Chain Operations Optimization",
+                        des: "Optimize supply chain operations to enhance efficiency and reduce operational costs.",
+                        img: "https://img-c.udemycdn.com/course/240x135/123588_c70a_11.jpg",
+                        writer: "Sophia Adams",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Public Relationship"
+                      },
+                      
+                      {
+                        id: 322,
+                        title: "Quality Management in Operations",
+                        des: "Explore strategies for ensuring quality in operations management for business excellence.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1340842_f36d_8.jpg",
+                        writer: "Benjamin Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Public Relationship"
+                      },
+                      
+                      {
+                        id: 323,
+                        title: "Lean Operations Principles",
+                        des: "Implement lean principles for streamlined operations and improved organizational performance.",
+                        img: "https://img-c.udemycdn.com/course/240x135/677348_01bb_2.jpg",
+                        writer: "Ella Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Public Relationship"
+                      },
+                       {
+                        id: 324,
+                        title: "Human Resources Management Fundamentals",
+                        des: "Gain a foundational understanding of human resources management principles and practices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/76978_f766_5.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Public Relationship"
+                      },
+                      {
+                        id: 325,
+                        title: "Human Resources Management Fundamentals",
+                        des: "Gain a foundational understanding of human resources management principles and practices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/125808_615a_9.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Public Relationship"
+                      },
+                      
+                      {
+                        id: 326,
+                        title: "Talent Acquisition and Recruitment Strategies",
+                        des: "Explore effective strategies for talent acquisition and recruitment in human resources.",
+                        img: "https://img-c.udemycdn.com/course/240x135/312042_7f9e_2.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Public Relationship"
+                      },
+                      
+                      {
+                        id: 327,
+                        title: "Employee Training and Development",
+                        des: "Develop and implement employee training and development programs for organizational growth.",
+                        img: "https://img-c.udemycdn.com/course/240x135/260018_ddb0_5.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Public Relationship"
+                      },
+                      
+                     
+                      {
+                        id: 328,
+                        title: "Performance Management in HR",
+                        des: "Learn effective performance management techniques to enhance employee productivity.",
+                        img: "https://img-c.udemycdn.com/course/240x135/322302_1979_2.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Public Relationship"
+                      },
+                      {
+                        id: 329,
+                        title: "Human Resources Management Fundamentals",
+                        des: "Gain a foundational understanding of human resources management principles and practices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/363348_885f_4.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Public Relationship"
+                      },
+                      {
+                        id: 330,
+                        title: "Human Resources Management Fundamentals",
+                        des: "Gain a foundational understanding of human resources management principles and practices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/536482_9403_5.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Public Relationship"
+                      },
+                      
+                      {
+                        id: 331,
+                        title: "Talent Acquisition and Recruitment Strategies",
+                        des: "Explore effective strategies for talent acquisition and recruitment in human resources.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2562342_3f79.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Public Relationship"
+                      },
+                      {
+                        id: 332,
+                        title: "Fundamentals of Accounting",
+                        des: "Master the basics of accounting principles and practices for financial management.",
+                        img: "https://img-c.udemycdn.com/course/240x135/32908_4e19_7.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Product Marketing"
+                      },
+                      
+                     {
+                        id:333,
+                        title: "Bookkeeping Essentials",
+                        des: "Learn essential bookkeeping techniques to maintain accurate financial records.",
+                        img: "https://img-c.udemycdn.com/course/240x135/48841_9110_7.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Product Marketing"
+                      },
+                      
+                      {
+                        id:334,
+                        title: "Advanced Accounting Practices",
+                        des: "Explore advanced accounting practices for comprehensive financial management.",
+                        img: "https://img-c.udemycdn.com/course/240x135/133428_e67a_18.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Product Marketing"
+                      },
+                      
+                     {
+                        id:335,
+                        title: "Financial Reporting and Analysis",
+                        des: "Understand financial reporting and analysis techniques for effective decision-making.",
+                        img: "https://img-c.udemycdn.com/course/240x135/206092_4aa3_8.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Product Marketing"
+                      },
+                      
+                   {
+                        id: 336,
+                        title: "Budgeting and Cost Control",
+                        des: "Learn budgeting and cost control strategies for efficient financial management.",
+                        img: "https://img-c.udemycdn.com/course/240x135/302562_c781_9.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Product Marketing"
+                      },
+                      {
+                        id:337,
+                        title: "Fundamentals of Accounting",
+                        des: "Master the basics of accounting principles and practices for financial management.",
+                        img: "https://img-c.udemycdn.com/course/240x135/306360_f699.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Product Marketing"
+                      },
+                      
+                     {
+                        id:338,
+                        title: "Bookkeeping Essentials",
+                        des: "Learn essential bookkeeping techniques to maintain accurate financial records.",
+                        img: "https://img-c.udemycdn.com/course/240x135/306360_f699.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Product Marketing"
+                      },
+                      
+                      {
+                        id:339,
+                        title: "Advanced Accounting Practices",
+                        des: "Explore advanced accounting practices for comprehensive financial management.",
+                        img: "https://img-c.udemycdn.com/course/240x135/888716_4225_8.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Product Marketing"
+                      },
+                      
+                       {
+                        id:340,
+                        title: "Corporate Compliance Essentials",
+                        des: "Understand the essentials of corporate compliance for ethical and legal business practices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/968248_92cb_3.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Digital Photography"
+                      },
+                      
+                      {
+                        id:341,
+                        title: "Legal Compliance in Business",
+                        des: "Learn about legal compliance requirements and practices for a compliant business operation.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1078520_682c_2.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Digital Photography"
+                      },
+                      
+                     {
+                        id:342,
+                        title: "Compliance Auditing and Reporting",
+                        des: "Master compliance auditing techniques and reporting procedures for businesses.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1315036_6df1_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Digital Photography"
+                      },
+                      
+                     
+                       {
+                        id:343,
+                        title: "Ethical Compliance in the Workplace",
+                        des: "Explore ethical compliance practices to foster a positive and inclusive workplace culture.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1315260_c654_2.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Digital Photography"
+                      },
+                      {
+                        id:344,
+                        title: "Environmental Compliance Standards",
+                        des: "Understand environmental compliance standards and their impact on business operations.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1317200_07c5_2.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Digital Photography"
+                      },
+                      {
+                        id:345,
+                        title: "Corporate Compliance Essentials",
+                        des: "Understand the essentials of corporate compliance for ethical and legal business practices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1342930_1a6d_5.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Digital Photography"
+                      },
+                      
+                      {
+                        id:346,
+                        title: "Legal Compliance in Business",
+                        des: "Learn about legal compliance requirements and practices for a compliant business operation.",
+                        img: "https://img-c.udemycdn.com/course/240x135/3385322_e814_2.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Digital Photography"
+                      },
+                      
+                     {
+                        id:347,
+                        title: "Compliance Auditing and Reporting",
+                        des: "Master compliance auditing techniques and reporting procedures for businesses.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1342930_1a6d_5.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Digital Photography"
+                      },
+                      
+                      {
+                        id:348,
+                        title: "Economic Principles and Theories",
+                        des: "Explore fundamental economic principles and theories that shape business and markets.",
+                        img: "https://img-c.udemycdn.com/course/240x135/398980_ffe8.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Photography"
+                      },
+                    
+                      {
+                        id:349,
+                        title: "Global Economic Trends",
+                        des: "Understand global economic trends and their impact on businesses and industries.",
+                        img: "https://img-c.udemycdn.com/course/240x135/638604_c94a_4.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Photography"
+                      },
+                      {
+                        id:350,
+                        title: "Economic Analysis for Decision-Making",
+                        des: "Learn economic analysis techniques for making informed decisions in business.",
+                        img: "https://img-c.udemycdn.com/course/240x135/398980_ffe8.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Photography"
+                      },
+                      
+                       {
+                        id:351,
+                        title: "Economic Impact Assessment",
+                        des: "Conduct economic impact assessments to evaluate the effects of business operations.",
+                        img: "https://img-c.udemycdn.com/course/240x135/767836_a4d6_2.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Photography"
+                      },
+                      {
+                        id:352,
+                        title: "Economic Principles and Theories",
+                        des: "Explore fundamental economic principles and theories that shape business and markets.",
+                        img: "https://img-c.udemycdn.com/course/240x135/895674_a609_4.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Photography"
+                      },
+                    
+                      {
+                        id:353,
+                        title: "Global Economic Trends",
+                        des: "Understand global economic trends and their impact on businesses and industries.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1378318_d894_6.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Photography"
+                      },
+                      {
+                        id:354,
+                        title: "Economic Analysis for Decision-Making",
+                        des: "Learn economic analysis techniques for making informed decisions in business.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1511358_33b5_3.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Photography"
+                      },
+                      
+                       {
+                        id:355,
+                        title: "Economics of Sustainable Development",
+                        des: "Explore the economics of sustainable development and its role in business strategies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1378318_d894_6.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Photography"
+                      },
+    
+                       
+                      {
+                        id:356,
+                        title: "Financial Management Fundamentals",
+                        des: "Build a strong foundation in financial management principles for business success.",
+                        img: "https://img-c.udemycdn.com/course/240x135/398980_ffe8.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Video Design"
+                      },
+                      
+                      {
+                        id:357,
+                        title: "Investment Strategies and Portfolio Management",
+                        des: "Explore effective investment strategies and learn portfolio management techniques.",
+                        img: "https://img-c.udemycdn.com/course/240x135/109988_0b7b_15.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Video Design"
+                      },
+                      
+                     {
+                        id:358,
+                        title: "Corporate Finance and Valuation",
+                        des: "Understand corporate finance principles and valuation techniques for businesses.",
+                        img: "https://img-c.udemycdn.com/course/240x135/145404_6cbe_3.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Video Design"
+                      },
+                      
+                      {
+                        id:359,
+                        title: "Financial Risk Management",
+                        des: "Learn strategies for managing financial risks and protecting business assets.",
+                        img: "https://img-c.udemycdn.com/course/240x135/178602_6a9e_5.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Video Design"
+                      },
+               {
+                        id:360,
+                        title: "International Finance and Trade",
+                        des: "Explore the dynamics of international finance and its impact on global trade.",
+                        img: "https://img-c.udemycdn.com/course/240x135/179500_d47e_5.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Video Design"
+                      },
+                      {
+                        id:361,
+                        title: "Financial Management Fundamentals",
+                        des: "Build a strong foundation in financial management principles for business success.",
+                        img: "https://img-c.udemycdn.com/course/240x135/180372_3341_5.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Video Design"
+                      },
+                      
+                      {
+                        id:362,
+                        title: "Investment Strategies and Portfolio Management",
+                        des: "Explore effective investment strategies and learn portfolio management techniques.",
+                        img: "https://img-c.udemycdn.com/course/240x135/180384_fddc_9.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Video Design"
+                      },
+                      
+                     {
+                        id:362,
+                        title: "Corporate Finance and Valuation",
+                        des: "Understand corporate finance principles and valuation techniques for businesses.",
+                        img: "https://img-c.udemycdn.com/course/240x135/965832_212f_4.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Video Design"
+                      },
+                      {
+                        id:363,
+                        title: "Tax Planning for Small Businesses",
+                        des: "Implement effective tax planning strategies tailored for small businesses.",
+                        img: "https://img-c.udemycdn.com/course/240x135/595258_5192_3.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Commercial Photography"
+                      },
+                     {
+                        id:364,
+                        title: "Corporate Taxation Principles",
+                        des: "Understand fundamental principles of corporate taxation and compliance requirements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/354336_ff6f_10.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Commercial Photography"
+                      },
+                      
+                       {
+                        id:365,
+                        title: "Tax Compliance and Reporting",
+                        des: "Master tax compliance practices and reporting procedures for businesses.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1172716_e612.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Commercial Photography"
+                      },
+                      
+                      {
+                        id:366,
+                        title: "International Tax Strategies",
+                        des: "Explore tax strategies for businesses engaged in international trade and operations.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2064303_8542_2.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Commercial Photography"
+                      },
+                     {
+                        id:367,
+                        title: "Taxation and Legal Considerations",
+                        des: "Understand legal considerations associated with taxation and their impact on business.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2280894_3022_2.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Commercial Photography"
+                      },
+                      {
+                        id:368,
+                        title: "Tax Planning for Small Businesses",
+                        des: "Implement effective tax planning strategies tailored for small businesses.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2714022_7d92.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Commercial Photography"
+                      },
+                     {
+                        id:369,
+                        title: "Corporate Taxation Principles",
+                        des: "Understand fundamental principles of corporate taxation and compliance requirements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2280894_3022_2.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Commercial Photography"
+                      },
+                      
+                       {
+                        id:370,
+                        title: "Tax Compliance and Reporting",
+                        des: "Master tax compliance practices and reporting procedures for businesses.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1113822_dcc8_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Commercial Photography"
+                      },
+                    {
+                        id:371,
+                        title: "IT Certification Essentials",
+                        des: "Master the essentials of IT certification and enhance your skills for career advancement.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1113822_dcc8_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Photography Tools"
+                      },
+                      
+                     {
+                        id:372,
+                        title: "Certified IT Professional Training",
+                        des: "Receive comprehensive training to become a certified IT professional in your chosen field.",
+                        img: "https://img-c.udemycdn.com/course/240x135/10812_b0af_6.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Photography Tools"
+                      },
+                      
+                  {
+                        id:373,
+                        title: "Advanced IT Certification Courses",
+                        des: "Explore advanced IT certification courses to stay at the forefront of technological trends.",
+                        img: "https://img-c.udemycdn.com/course/240x135/16429_c92e_5.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Photography Tools"
+                      },
+                      
+                       {
+                        id:374,
+                        title: "IT Security Certification",
+                        des: "Gain expertise in IT security and earn a certification for securing digital assets.",
+                        img: "https://img-c.udemycdn.com/course/240x135/301456_ff8f_12.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Photography Tools"
+                      },
+                      
+                      {
+                        id:375,
+                        title: "Cloud Computing Certification",
+                        des: "Get certified in cloud computing and expand your skills in cloud-based technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/314338_2f09_7.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Photography Tools"
+                      },
+                      {
+                        id:376,
+                        title: "IT Certification Essentials",
+                        des: "Master the essentials of IT certification and enhance your skills for career advancement.",
+                        img: "https://img-c.udemycdn.com/course/240x135/314744_8347.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Photography Tools"
+                      },
+                      
+                     {
+                        id:377,
+                        title: "Certified IT Professional Training",
+                        des: "Receive comprehensive training to become a certified IT professional in your chosen field.",
+                        img: "https://img-c.udemycdn.com/course/240x135/325852_7bb3_4.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Photography Tools"
+                      },
+                      
+                  {
+                        id:378,
+                        title: "Advanced IT Certification Courses",
+                        des: "Explore advanced IT certification courses to stay at the forefront of technological trends.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2394982_eaac_8.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Photography Tools"
+                      },
+    
+                      {
+                        id:379,
+                        title: "Network Security Fundamentals",
+                        des: "Build a strong foundation in network security fundamentals to protect digital assets.",
+                        img: "https://img-c.udemycdn.com/course/240x135/22591_b568_6.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Instruments"
+                      },
+                      
+                      {
+                        id:380,
+                        title: "Certified Network Professional Training",
+                        des: "Receive comprehensive training to become a certified network professional with expertise.",
+                        img: "https://img-c.udemycdn.com/course/240x135/32199_6ad0_6.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Instruments"
+                      },
+                      
+                      {
+                        id:381,
+                        title: "Advanced Network Security Courses",
+                        des: "Explore advanced network security courses to stay at the forefront of cybersecurity.",
+                        img: "https://img-c.udemycdn.com/course/240x135/62109_9be0_8.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Instruments"
+                      },
+                      
+                     {
+                        id:382,
+                        title: "Cloud Security Certification",
+                        des: "Get certified in cloud security and expand your skills in securing cloud-based technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/76838_e5b4_6.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Instruments"
+                      },
+                      
+                    {
+                        id:383,
+                        title: "Ethical Hacking and Cybersecurity",
+                        des: "Explore ethical hacking techniques and cybersecurity practices for a secure network.",
+                        img: "https://img-c.udemycdn.com/course/240x135/119866_d764_3.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Instruments"
+                      },
+                      {
+                        id:384,
+                        title: "Network Security Fundamentals",
+                        des: "Build a strong foundation in network security fundamentals to protect digital assets.",
+                        img: "https://img-c.udemycdn.com/course/240x135/857010_8239_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Instruments"
+                      },
+                      
+                      {
+                        id:385,
+                        title: "Certified Network Professional Training",
+                        des: "Receive comprehensive training to become a certified network professional with expertise.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1602900_f550_10.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Instruments"
+                      },
+                      
+                      {
+                        id:386,
+                        title: "Advanced Network Security Courses",
+                        des: "Explore advanced network security courses to stay at the forefront of cybersecurity.",
+                        img: "https://img-c.udemycdn.com/course/240x135/614772_233b_9.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Instruments"
+                      },
+    
+                       {
+                        id:387,
+                        title: "Hardware Essentials",
+                        des: "Explore the fundamentals of hardware and gain essential knowledge for IT professionals.",
+                        img: "https://img-c.udemycdn.com/course/240x135/53911_4529_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Music Production"
+                      },
+                      
+                     {
+                        id:389,
+                        title: "Certified Hardware Technician Training",
+                        des: "Receive comprehensive training to become a certified hardware technician with expertise.",
+                        img: "https://img-c.udemycdn.com/course/240x135/88188_c111_13.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Music Production"
+                      },
+                      
+                      {
+                        id:390,
+                        title: "Advanced Hardware Courses",
+                        des: "Explore advanced hardware courses to stay at the forefront of technological advancements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/118042_251a_13.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Music Production"
+                      },
+                      
+                     {
+                        id:390,
+                        title: "Network Hardware Certification",
+                        des: "Get certified in network hardware and expand your skills in configuring network devices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/187626_1734_6.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Music Production"
+                      },
+                      
+                      {
+                        id:391,
+                        title: "Embedded Systems and Hardware Design",
+                        des: "Explore the design and development of embedded systems and hardware components.",
+                        img: "https://img-c.udemycdn.com/course/240x135/395822_2ae9_5.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Music Production"
+                      },
+    
+                      {
+                        id:392,
+                        title: "Hardware Essentials",
+                        des: "Explore the fundamentals of hardware and gain essential knowledge for IT professionals.",
+                        img: "https://img-c.udemycdn.com/course/240x135/118042_251a_13.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Music Production"
+                      },
+                      
+                     {
+                        id:393,
+                        title: "Certified Hardware Technician Training",
+                        des: "Receive comprehensive training to become a certified hardware technician with expertise.",
+                        img: "https://img-c.udemycdn.com/course/240x135/982708_2483_2.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Music Production"
+                      },
+                      
+                      {
+                        id:394,
+                        title: "Advanced Hardware Courses",
+                        des: "Explore advanced hardware courses to stay at the forefront of technological advancements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2828052_b461_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Music Production"
+                      },
+                      
+                      {
+                        id:395,
+                        title: "Operating System Fundamentals",
+                        des: "Build a strong foundation in operating system fundamentals for efficient server management.",
+                        img: "https://img-c.udemycdn.com/course/240x135/95246_69f4_23.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Vocal"
+                      },
+                      
+                    {
+                        id:396,
+                        title: "Server Administration and Management",
+                        des: "Learn effective server administration techniques for maintaining a stable IT infrastructure.",
+                        img: "https://img-c.udemycdn.com/course/240x135/98434_d5d1_3.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Vocal"
+                      },
+                      
+                     {
+                        id:397,
+                        title: "Advanced Operating System Courses",
+                        des: "Explore advanced operating system courses to stay at the forefront of server technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/137194_ece8_20.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Vocal"
+                      },
+                      
+                      {
+                        id:398,
+                        title: "Server Security and Configuration",
+                        des: "Enhance server security and configuration skills for a robust IT infrastructure.",
+                        img: "https://img-c.udemycdn.com/course/240x135/149910_25f7_7.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Vocal"
+                      },
+                      
+                       {
+                        id:399,
+                        title: "Network Operating Systems",
+                        des: "Explore network operating systems and their role in managing distributed server environments.",
+                        img: "https://img-c.udemycdn.com/course/240x135/256758_e35d_5.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Vocal"
+                      },
+                      {
+                        id:400,
+                        title: "Operating System Fundamentals",
+                        des: "Build a strong foundation in operating system fundamentals for efficient server management.",
+                        img: "https://img-c.udemycdn.com/course/240x135/328292_ec6a_6.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Vocal"
+                      },
+                      
+                    {
+                        id:401,
+                        title: "Server Administration and Management",
+                        des: "Learn effective server administration techniques for maintaining a stable IT infrastructure.",
+                        img: "https://img-c.udemycdn.com/course/240x135/149910_25f7_7.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Vocal"
+                      },
+                      
+                     {
+                        id:402,
+                        title: "Advanced Operating System Courses",
+                        des: "Explore advanced operating system courses to stay at the forefront of server technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/700114_3644_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Vocal"
+                      },
+                      
+    
+                    {
+                        id:403,
+                        title: "Introduction to IT Fundamentals",
+                        des: "Get an introduction to IT fundamentals covering a wide range of software and technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/972974_ee7f_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Music Software"
+                      },
+                      
+                      {
+                        id:404,
+                        title: "Software Development Principles",
+                        des: "Learn the principles of software development and understand its role in modern IT.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1194706_10f5_3.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Music Software"
+                      },
+    
+                      {
+                        id:405,
+                        title: "IT Project Management",
+                        des: "Explore project management in IT and gain skills to oversee successful software projects.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2767896_eb29_5.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Music Software"
+                      },
+                      
+                 {
+                        id:406,
+                        title: "Database Management Systems",
+                        des: "Gain expertise in managing database systems for efficient data storage and retrieval.",
+                        img: "https://img-c.udemycdn.com/course/240x135/3448142_bdbc_4.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Music Software"
+                      },
+                      
+                    {
+                        id:407,
+                        title: "IT Infrastructure and Support",
+                        des: "Understand IT infrastructure and support systems to ensure smooth software operation.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1522272_d707_3.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Music Software"
+                      },
+                      {
+                        id:249,
+                        title: "Introduction to IT Fundamentals",
+                        des: "Get an introduction to IT fundamentals covering a wide range of software and technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/687586_bbd0_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Music Software"
+                      },
+                      
+                      {
+                        id:250,
+                        title: "Software Development Principles",
+                        des: "Learn the principles of software development and understand its role in modern IT.",
+                        img: "https://img-c.udemycdn.com/course/240x135/55282_cbd6_13.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Music Software"
+                      },
+    
+                      {
+                        id:251,
+                        title: "IT Project Management",
+                        des: "Explore project management in IT and gain skills to oversee successful software projects.",
+                        img: "https://img-c.udemycdn.com/course/240x135/149880_b894_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Music Software"
+                      },
+                      {
+                        id:252,
+                        title: "Web Design Fundamentals",
+                        des: "Explore the fundamentals of web design and learn essential principles for creating engaging websites.",
+                        img: "https://img-c.udemycdn.com/course/240x135/246154_d8b0_3.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Music Techniques"
+                      },
+                      
+                       {
+                        id:253,
+                        title: "Responsive Web Design Techniques",
+                        des: "Learn techniques for creating responsive web designs that adapt to various screen sizes and devices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/271228_ce5b_9.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Music Techniques"
+                      },
+                      
+                     {
+                        id:254,
+                        title: "User Experience (UX) Design",
+                        des: "Understand the principles of user experience design to create intuitive and user-friendly websites.",
+                        img: "https://img-c.udemycdn.com/course/240x135/355212_948a_10.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Music Techniques"
+                      },
+                      
+                       {
+                        id:255,
+                        title: "Graphic Design for Web Developers",
+                        des: "Explore graphic design techniques for enhancing visual elements in web development.",
+                        img: "https://img-c.udemycdn.com/course/240x135/512678_47fd.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Music Techniques"
+                      },
+                      
+                       {
+                        id:256,
+                        title: "Advanced Web Design Practices",
+                        des: "Explore advanced web design practices and stay at the forefront of modern web development.",
+                        img: "https://img-c.udemycdn.com/course/240x135/831866_542a.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Music Techniques"
+                      },
+                      {
+                        id:257,
+                        title: "Web Design Fundamentals",
+                        des: "Explore the fundamentals of web design and learn essential principles for creating engaging websites.",
+                        img: "https://img-c.udemycdn.com/course/240x135/355212_948a_10.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Music Techniques"
+                      },
+                      
+                       {
+                        id:258,
+                        title: "Responsive Web Design Techniques",
+                        des: "Learn techniques for creating responsive web designs that adapt to various screen sizes and devices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/3227583_5e75_6.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Music Techniques"
+                      },
+                      
+                     {
+                        id:259,
+                        title: "User Experience (UX) Design",
+                        des: "Understand the principles of user experience design to create intuitive and user-friendly websites.",
+                        img: "https://img-c.udemycdn.com/course/240x135/246154_d8b0_3.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Music Techniques"
+                      },
+    
+                       {
+                        id: 260,
+                        title: "Game Design Fundamentals",
+                        des: "Explore the fundamentals of game design and learn essential principles for creating engaging games.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1561458_7f3b_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Fitness"
+                      },
+                      
+                       {
+                        id: 261,
+                        title: "Character Design for Games",
+                        des: "Learn character design techniques for creating memorable and visually appealing game characters.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2094300_ebf0_9.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Fitness"
+                      },
+                      
+                      {
+                        id: 262,
+                        title: "Level Design and Gameplay Mechanics",
+                        des: "Explore level design and gameplay mechanics to create immersive and enjoyable game experiences.",
+                        img: "https://img-c.udemycdn.com/course/240x135/271228_ce5b_9.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Fitness"
+                      },
+                      {
+                        id: 263,
+                        title: "Game Art and Animation",
+                        des: "Explore game art and animation techniques for bringing games to life with stunning visuals.",
+                        img: "https://img-c.udemycdn.com/course/240x135/957940_4115_4.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Fitness"
+                      },
+                      
+                     {
+                        id: 264,
+                        title: "Advanced Game Design Practices",
+                        des: "Explore advanced game design practices and stay at the forefront of modern game development.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1109602_1ef3_8.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Fitness"
+                      },
+                      {
+                        id: 265,
+                        title: "Game Design Fundamentals",
+                        des: "Explore the fundamentals of game design and learn essential principles for creating engaging games.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1109602_1ef3_8.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Fitness"
+                      },
+                      
+                       {
+                        id: 266,
+                        title: "Character Design for Games",
+                        des: "Learn character design techniques for creating memorable and visually appealing game characters.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1479516_0e42_2.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Fitness"
+                      },
+                      
+                      {
+                        id: 267,
+                        title: "Level Design and Gameplay Mechanics",
+                        des: "Explore level design and gameplay mechanics to create immersive and enjoyable game experiences.",
+                        img: "https://img-c.udemycdn.com/course/240x135/352132_74cf_5.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Fitness"
+                      },
+                       {
+                        id: 268,
+                        title: "Introduction to 3D Modeling",
+                        des: "Get an introduction to 3D modeling and learn the basics of creating three-dimensional objects.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2459618_80a6.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Sport"
+                      },
+                      
+                    {
+                        id: 269,
+                        title: "Character Animation Techniques",
+                        des: "Learn character animation techniques to bring 3D characters to life with realistic movements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/222122_ad46_6.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Sport"
+                      },
+                      
+                       {
+                        id: 270,
+                        title: "Visual Effects in 3D Animation",
+                        des: "Explore visual effects in 3D animation and create stunning visuals for film and multimedia.",
+                        img: "https://img-c.udemycdn.com/course/240x135/269778_a286_16.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Sport"
+                      },
+                      
+                       {
+                        id: 271,
+                        title: "3D Animation for Games",
+                        des: "Learn 3D animation techniques for creating dynamic and immersive game experiences.",
+                        img: "https://img-c.udemycdn.com/course/240x135/304452_a337.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Sport"
+                      },
+                      
+                     {
+                        id: 272,
+                        title: "Advanced 3D Animation Practices",
+                        des: "Explore advanced 3D animation practices and stay at the forefront of modern animation.",
+                        img: "https://img-c.udemycdn.com/course/240x135/451062_1523_16.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Sport"
+                      },
+                      {
+                        id: 273,
+                        title: "Introduction to 3D Modeling",
+                        des: "Get an introduction to 3D modeling and learn the basics of creating three-dimensional objects.",
+                        img: "https://img-c.udemycdn.com/course/240x135/528670_540c.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Sport"
+                      },
+                      
+                    {
+                        id: 274,
+                        title: "Character Animation Techniques",
+                        des: "Learn character animation techniques to bring 3D characters to life with realistic movements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/627730_83d0_41.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Sport"
+                      },
+                      
+                       {
+                        id: 275,
+                        title: "Visual Effects in 3D Animation",
+                        des: "Explore visual effects in 3D animation and create stunning visuals for film and multimedia.",
+                        img: "https://img-c.udemycdn.com/course/240x135/683198_ef78_8.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Sport"
+                      },
+    
+                     {
+                        id:276,
+                        title: "Fashion Design Fundamentals",
+                        des: "Explore the fundamentals of fashion design and learn essential principles for creating stylish garments.",
+                        img: "https://img-c.udemycdn.com/course/240x135/551930_3c01_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Fashion Design"
+                      },
+                      
+                     {
+                        id: 277,
+                        title: "Textile Design Techniques",
+                        des: "Learn textile design techniques for creating unique patterns and textures in fashion.",
+                        img: "https://img-c.udemycdn.com/course/240x135/472114_a27c_3.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Yoga"
+                      },
+                      
+                      {
+                        id: 278,
+                        title: "Haute Couture and Runway Fashion",
+                        des: "Explore haute couture and runway fashion to understand the artistry behind high-end fashion.",
+                        img: "https://img-c.udemycdn.com/course/240x135/541658_26e0_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Yoga"
+                      },
+                      
+                      {
+                        id: 279,
+                        title: "Fashion Illustration and Sketching",
+                        des: "Learn fashion illustration and sketching techniques to visually communicate design ideas.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1768758_aaeb_6.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Yoga"
+                      },
+                      
+                      {
+                        id: 280,
+                        title: "Advanced Fashion Design Practices",
+                        des: "Explore advanced fashion design practices and stay at the forefront of modern fashion trends.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2200350_37d8_4.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Yoga"
+                      },
+                      {
+                        id: 281,
+                        title: "Fashion Design Fundamentals",
+                        des: "Explore the fundamentals of fashion design and learn essential principles for creating stylish garments.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2284600_278b_7.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Yoga"
+                      },
+                      
+                     {
+                        id: 282,
+                        title: "Textile Design Techniques",
+                        des: "Learn textile design techniques for creating unique patterns and textures in fashion.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2614100_1302_6.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Yoga"
+                      },
+                      
+                      {
+                        id: 283,
+                        title: "Haute Couture and Runway Fashion",
+                        des: "Explore haute couture and runway fashion to understand the artistry behind high-end fashion.",
+                        img: "https://img-c.udemycdn.com/course/240x135/3205406_f076_4.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Yoga"
+                      },
+                      {
+                        id: 284,
+                        title: "Introduction to Design Principles",
+                        des: "Get an introduction to design principles and explore the foundational concepts in design.",
+                        img: "https://img-c.udemycdn.com/course/240x135/472114_a27c_3.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Mental Health"
+                      },
+                    {
+                        id: 285,
+                        title: "Creative Design Thinking",
+                        des: "Learn creative design thinking techniques to approach problem-solving from a design perspective.",
+                        img: "https://img-c.udemycdn.com/course/240x135/453832_2597_5.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Mental Health"
+                      },
+                      
+                       {
+                        id: 286,
+                        title: "Design for Sustainability",
+                        des: "Explore design for sustainability and understand the role of design in environmental conservation.",
+                        img: "https://img-c.udemycdn.com/course/240x135/591438_57e6_3.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Mental Health"
+                      },
+                      
+                     {
+                        id: 287,
+                        title: "Interactive Design Practices",
+                        des: "Learn interactive design practices and create engaging and user-friendly digital experiences.",
+                        img: "https://img-c.udemycdn.com/course/240x135/139210_3d00_5.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Mental Health"
+                      },
+                       {
+                        id: 288,
+                        title: "Advanced Design Techniques",
+                        des: "Explore advanced design techniques and stay at the forefront of modern design trends.",
+                        img: "https://img-c.udemycdn.com/course/240x135/401998_6e4a.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Mental Health"
+                      },
+                      {
+                        id: 289,
+                        title: "Introduction to Design Principles",
+                        des: "Get an introduction to design principles and explore the foundational concepts in design.",
+                        img: "https://img-c.udemycdn.com/course/240x135/522596_f45e.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Mental Health"
+                      },
+                    {
+                        id: 290,
+                        title: "Creative Design Thinking",
+                        des: "Learn creative design thinking techniques to approach problem-solving from a design perspective.",
+                        img: "https://img-c.udemycdn.com/course/240x135/401998_6e4a.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Mental Health"
+                      },
+                      
+                       {
+                        id: 291,
+                        title: "Design for Sustainability",
+                        des: "Explore design for sustainability and understand the role of design in environmental conservation.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1259404_72d4_21.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Mental Health"
+                      },
+                      {
+                        id: 268,
+                        title: "Introduction to 3D Modeling",
+                        des: "Get an introduction to 3D modeling and learn the basics of creating three-dimensional objects.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2459618_80a6.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Dance"
+                      },
+                      
+                    {
+                        id: 269,
+                        title: "Character Animation Techniques",
+                        des: "Learn character animation techniques to bring 3D characters to life with realistic movements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/222122_ad46_6.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Dance"
+                      },
+                      
+                       {
+                        id: 270,
+                        title: "Visual Effects in 3D Animation",
+                        des: "Explore visual effects in 3D animation and create stunning visuals for film and multimedia.",
+                        img: "https://img-c.udemycdn.com/course/240x135/269778_a286_16.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Dance"
+                      },
+                      
+                       {
+                        id: 271,
+                        title: "3D Animation for Games",
+                        des: "Learn 3D animation techniques for creating dynamic and immersive game experiences.",
+                        img: "https://img-c.udemycdn.com/course/240x135/304452_a337.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Dance"
+                      },
+                      
+                     {
+                        id: 272,
+                        title: "Advanced 3D Animation Practices",
+                        des: "Explore advanced 3D animation practices and stay at the forefront of modern animation.",
+                        img: "https://img-c.udemycdn.com/course/240x135/451062_1523_16.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Dance"
+                      },
+                      {
+                        id: 273,
+                        title: "Introduction to 3D Modeling",
+                        des: "Get an introduction to 3D modeling and learn the basics of creating three-dimensional objects.",
+                        img: "https://img-c.udemycdn.com/course/240x135/528670_540c.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Dance"
+                      },
+                      
+                    {
+                        id: 274,
+                        title: "Character Animation Techniques",
+                        des: "Learn character animation techniques to bring 3D characters to life with realistic movements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/627730_83d0_41.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Dance"
+                      },
+                      
+                       {
+                        id: 275,
+                        title: "Visual Effects in 3D Animation",
+                        des: "Explore visual effects in 3D animation and create stunning visuals for film and multimedia.",
+                        img: "https://img-c.udemycdn.com/course/240x135/683198_ef78_8.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Dance"
+                      },
+    
+                     {
+                        id:276,
+                        title: "Fashion Design Fundamentals",
+                        des: "Explore the fundamentals of fashion design and learn essential principles for creating stylish garments.",
+                        img: "https://img-c.udemycdn.com/course/240x135/551930_3c01_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Engineering"
+                      },
+                      
+                     {
+                        id: 277,
+                        title: "Textile Design Techniques",
+                        des: "Learn textile design techniques for creating unique patterns and textures in fashion.",
+                        img: "https://img-c.udemycdn.com/course/240x135/472114_a27c_3.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Engineering"
+                      },
+                      
+                      {
+                        id: 278,
+                        title: "Haute Couture and Runway Fashion",
+                        des: "Explore haute couture and runway fashion to understand the artistry behind high-end fashion.",
+                        img: "https://img-c.udemycdn.com/course/240x135/541658_26e0_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Engineering"
+                      },
+                      
+                      {
+                        id: 279,
+                        title: "Fashion Illustration and Sketching",
+                        des: "Learn fashion illustration and sketching techniques to visually communicate design ideas.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1768758_aaeb_6.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Engineering"
+                      },
+                      
+                      {
+                        id: 280,
+                        title: "Advanced Fashion Design Practices",
+                        des: "Explore advanced fashion design practices and stay at the forefront of modern fashion trends.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2200350_37d8_4.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Engineering"
+                      },
+                      {
+                        id: 281,
+                        title: "Fashion Design Fundamentals",
+                        des: "Explore the fundamentals of fashion design and learn essential principles for creating stylish garments.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2284600_278b_7.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Engineering"
+                      },
+                      
+                     {
+                        id: 282,
+                        title: "Textile Design Techniques",
+                        des: "Learn textile design techniques for creating unique patterns and textures in fashion.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2614100_1302_6.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Engineering"
+                      },
+                      
+                      {
+                        id: 283,
+                        title: "Haute Couture and Runway Fashion",
+                        des: "Explore haute couture and runway fashion to understand the artistry behind high-end fashion.",
+                        img: "https://img-c.udemycdn.com/course/240x135/3205406_f076_4.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Engineering"
+                      },
                   
-                  
-                 
+                      {
+                        id:220,
+                        title: "Network Security Fundamentals",
+                        des: "Build a strong foundation in network security fundamentals to protect digital assets.",
+                        img: "https://img-c.udemycdn.com/course/240x135/22591_b568_6.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Math"
+                      },
+                      
+                      {
+                        id:221,
+                        title: "Certified Network Professional Training",
+                        des: "Receive comprehensive training to become a certified network professional with expertise.",
+                        img: "https://img-c.udemycdn.com/course/240x135/32199_6ad0_6.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Math"
+                      },
+                      
+                      {
+                        id:222,
+                        title: "Advanced Network Security Courses",
+                        des: "Explore advanced network security courses to stay at the forefront of cybersecurity.",
+                        img: "https://img-c.udemycdn.com/course/240x135/62109_9be0_8.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Math"
+                      },
+                      
+                     {
+                        id:223,
+                        title: "Cloud Security Certification",
+                        des: "Get certified in cloud security and expand your skills in securing cloud-based technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/76838_e5b4_6.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Math"
+                      },
+                      
+                    {
+                        id:224,
+                        title: "Ethical Hacking and Cybersecurity",
+                        des: "Explore ethical hacking techniques and cybersecurity practices for a secure network.",
+                        img: "https://img-c.udemycdn.com/course/240x135/119866_d764_3.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Math"
+                      },
+                      {
+                        id:225,
+                        title: "Network Security Fundamentals",
+                        des: "Build a strong foundation in network security fundamentals to protect digital assets.",
+                        img: "https://img-c.udemycdn.com/course/240x135/857010_8239_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Math"
+                      },
+                      
+                      {
+                        id:226,
+                        title: "Certified Network Professional Training",
+                        des: "Receive comprehensive training to become a certified network professional with expertise.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1602900_f550_10.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Math"
+                      },
+                      
+                      {
+                        id:227,
+                        title: "Advanced Network Security Courses",
+                        des: "Explore advanced network security courses to stay at the forefront of cybersecurity.",
+                        img: "https://img-c.udemycdn.com/course/240x135/614772_233b_9.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Math"
+                      },
+    
+                       {
+                        id:228,
+                        title: "Hardware Essentials",
+                        des: "Explore the fundamentals of hardware and gain essential knowledge for IT professionals.",
+                        img: "https://img-c.udemycdn.com/course/240x135/53911_4529_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Science"
+                      },
+                      
+                     {
+                        id:229,
+                        title: "Certified Hardware Technician Training",
+                        des: "Receive comprehensive training to become a certified hardware technician with expertise.",
+                        img: "https://img-c.udemycdn.com/course/240x135/88188_c111_13.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Science"
+                      },
+                      
+                      {
+                        id:230,
+                        title: "Advanced Hardware Courses",
+                        des: "Explore advanced hardware courses to stay at the forefront of technological advancements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/118042_251a_13.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Science"
+                      },
+                      
+                     {
+                        id:231,
+                        title: "Network Hardware Certification",
+                        des: "Get certified in network hardware and expand your skills in configuring network devices.",
+                        img: "https://img-c.udemycdn.com/course/240x135/187626_1734_6.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Science"
+                      },
+                      
+                      {
+                        id:232,
+                        title: "Embedded Systems and Hardware Design",
+                        des: "Explore the design and development of embedded systems and hardware components.",
+                        img: "https://img-c.udemycdn.com/course/240x135/395822_2ae9_5.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Science"
+                      },
+    
+                      {
+                        id:233,
+                        title: "Hardware Essentials",
+                        des: "Explore the fundamentals of hardware and gain essential knowledge for IT professionals.",
+                        img: "https://img-c.udemycdn.com/course/240x135/118042_251a_13.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Science"
+                      },
+                      
+                     {
+                        id:234,
+                        title: "Certified Hardware Technician Training",
+                        des: "Receive comprehensive training to become a certified hardware technician with expertise.",
+                        img: "https://img-c.udemycdn.com/course/240x135/982708_2483_2.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Science"
+                      },
+                      
+                      {
+                        id:235,
+                        title: "Advanced Hardware Courses",
+                        des: "Explore advanced hardware courses to stay at the forefront of technological advancements.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2828052_b461_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Science"
+                      },
+                      
+                      {
+                        id:236,
+                        title: "Operating System Fundamentals",
+                        des: "Build a strong foundation in operating system fundamentals for efficient server management.",
+                        img: "https://img-c.udemycdn.com/course/240x135/95246_69f4_23.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Social Science"
+                      },
+                      
+                    {
+                        id:237,
+                        title: "Server Administration and Management",
+                        des: "Learn effective server administration techniques for maintaining a stable IT infrastructure.",
+                        img: "https://img-c.udemycdn.com/course/240x135/98434_d5d1_3.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Social Science"
+                      },
+                      
+                     {
+                        id:238,
+                        title: "Advanced Operating System Courses",
+                        des: "Explore advanced operating system courses to stay at the forefront of server technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/137194_ece8_20.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Social Science"
+                      },
+                      
+                      {
+                        id:239,
+                        title: "Server Security and Configuration",
+                        des: "Enhance server security and configuration skills for a robust IT infrastructure.",
+                        img: "https://img-c.udemycdn.com/course/240x135/149910_25f7_7.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Social Science"
+                      },
+                      
+                       {
+                        id:240,
+                        title: "Network Operating Systems",
+                        des: "Explore network operating systems and their role in managing distributed server environments.",
+                        img: "https://img-c.udemycdn.com/course/240x135/256758_e35d_5.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Social Science"
+                      },
+                      {
+                        id:241,
+                        title: "Operating System Fundamentals",
+                        des: "Build a strong foundation in operating system fundamentals for efficient server management.",
+                        img: "https://img-c.udemycdn.com/course/240x135/328292_ec6a_6.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Social Science"
+                      },
+                      
+                    {
+                        id:242,
+                        title: "Server Administration and Management",
+                        des: "Learn effective server administration techniques for maintaining a stable IT infrastructure.",
+                        img: "https://img-c.udemycdn.com/course/240x135/149910_25f7_7.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Social Science"
+                      },
+                      
+                     {
+                        id:243,
+                        title: "Advanced Operating System Courses",
+                        des: "Explore advanced operating system courses to stay at the forefront of server technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/700114_3644_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Social Science"
+                      },
+                      
+    
+                    {
+                        id:244,
+                        title: "Introduction to IT Fundamentals",
+                        des: "Get an introduction to IT fundamentals covering a wide range of software and technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/972974_ee7f_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Teacher Training"
+                      },
+                      
+                      {
+                        id:245,
+                        title: "Software Development Principles",
+                        des: "Learn the principles of software development and understand its role in modern IT.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1194706_10f5_3.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Teacher Training"
+                      },
+    
+                      {
+                        id:246,
+                        title: "IT Project Management",
+                        des: "Explore project management in IT and gain skills to oversee successful software projects.",
+                        img: "https://img-c.udemycdn.com/course/240x135/2767896_eb29_5.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Teacher Training"
+                      },
+                      
+                 {
+                        id:247,
+                        title: "Database Management Systems",
+                        des: "Gain expertise in managing database systems for efficient data storage and retrieval.",
+                        img: "https://img-c.udemycdn.com/course/240x135/3448142_bdbc_4.jpg",
+                        writer: "Oliver Turner",
+                        rating: "4.6⭐",
+                        price: 54.99,
+                        type: "Teacher Training"
+                      },
+                      
+                    {
+                        id:248,
+                        title: "IT Infrastructure and Support",
+                        des: "Understand IT infrastructure and support systems to ensure smooth software operation.",
+                        img: "https://img-c.udemycdn.com/course/240x135/1522272_d707_3.jpg",
+                        writer: "Emma Turner",
+                        rating: "4.5⭐",
+                        price: 49.99,
+                        type: "Teacher Training"
+                      },
+                      {
+                        id:249,
+                        title: "Introduction to IT Fundamentals",
+                        des: "Get an introduction to IT fundamentals covering a wide range of software and technologies.",
+                        img: "https://img-c.udemycdn.com/course/240x135/687586_bbd0_2.jpg",
+                        writer: "Sophie Turner",
+                        rating: "4.7⭐",
+                        price: 59.99,
+                        type: "Teacher Training"
+                      },
+                      
+                      {
+                        id:250,
+                        title: "Software Development Principles",
+                        des: "Learn the principles of software development and understand its role in modern IT.",
+                        img: "https://img-c.udemycdn.com/course/240x135/55282_cbd6_13.jpg",
+                        writer: "Ethan Turner",
+                        rating: "4.8⭐",
+                        price: 64.99,
+                        type: "Teacher Training"
+                      },
+    
+                      {
+                        id:251,
+                        title: "IT Project Management",
+                        des: "Explore project management in IT and gain skills to oversee successful software projects.",
+                        img: "https://img-c.udemycdn.com/course/240x135/149880_b894_2.jpg",
+                        writer: "Isabella Turner",
+                        rating: "4.9⭐",
+                        price: 69.99,
+                        type: "Teacher Training"
+                      },
+                     
                   
                 
               

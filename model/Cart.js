@@ -3,8 +3,17 @@ const { Schema } = mongoose;
 const userinfo = require("./userinfo");
 
 const cartSchema = new Schema({
-  item: { type: Object, required: true },
-  userid: { type: Schema.Types.ObjectId, ref: "userinfo", required: true },
+  // item: { type: Object, required: true },
+  // userid: { type: Schema.Types.ObjectId, ref: "userinfo", required: true },
+       id:Number,
+        title:String,
+        des:String,
+        img:String,
+        writer:String,
+        rating:String,
+        price:Number,
+        type:String
+      
 });
 
 const learningSchema = new Schema({
