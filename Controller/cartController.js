@@ -1,14 +1,5 @@
 const { Cart, LearningData } = require("../model/Cart");
 
-// exports.fetchCartByUser = async (req, res) => {
-//   try {
-//     console.log("req.body", req.body);
-//     const cartItems = await Cart.find({ userid: req.body.userId })
-//     res.status(200).json(cartItems);
-//   } catch (error) {
-//     res.status(400).json(err);
-//   }
-// };
 
 
 exports.addToCart =async(req,res)=>{
@@ -16,7 +7,7 @@ exports.addToCart =async(req,res)=>{
     const addData= await Cart.create(data)
     res.send(addData)
 
-    // res.status(400).json(err);
+  
 
 }
 
