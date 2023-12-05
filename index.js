@@ -44,8 +44,8 @@ app.post("/out/create-checkout-session", async (req, res) => {
     payment_method_types: ["card"],
     line_items: lineItems,
     mode: "payment",
-    success_url: "http://localhost:3000/",
-    cancel_url: "http://localhost:3000/",
+    success_url: "https://pradum-udemyacademy.netlify.app",
+    cancel_url: "https://pradum-udemyacademy.netlify.app",
   });
   res.json({ id: session.id });
 });
